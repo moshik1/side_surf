@@ -4,7 +4,7 @@ import pickle
 import json
 
 filename = "head_dist.json"
-filename = "first_1M_64b_dist.json"
+#filename = "first_50M_64b_dist.json"
 #filename = "first_50M_64b_dist.json"
 
 with open(filename, "rb") as fp:   # Unpickling
@@ -31,7 +31,7 @@ prob_above_40b_real = 0
 for i in range(len(byte_diff)-1):
 #        print (str((i+1)*8) + " " +str(byte_diff[i]))
         prob_base += byte_diff[i]/((2**((i+1)*8)))
-        prob_real += byte_diff[i]/((2**((i+1)*8)))/128
+        prob_real += byte_diff[i]/((2**((i+1)*8)))/256
         if (i>=4):
             prob_above_40b_base += byte_diff[i]/((2**((i+1)*8)))
         else:
