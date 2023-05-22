@@ -37,11 +37,11 @@ def plot_response_time1(data_path):
     len_db_40m = chop_array(db_40m)
     len_db_50m = chop_array(db_50m)
 
-    db_10m_color = "#d95f0e"
-    db_20m_color = "#e7298a"
-    db_30m_color = "#2c7fb8"
-    db_40m_color = "#7570b3"
-    db_50m_color = "#1b9e77"
+    db_10m_color = "#f46d43"
+    db_20m_color = "#4575b4"
+    db_30m_color = "#d73027"
+    db_40m_color = "#313695"
+    db_50m_color = "#d73027"
     
     plt.plot(get_request[0:len_db_10m - 1].astype(float), db_10m[0:len_db_10m - 1].astype(int), label='Data size 10M', color= db_10m_color)
     plt.plot(get_request[0:len_db_20m - 1].astype(float), db_20m[0:len_db_20m - 1].astype(int), label='Data size 20M', color= db_20m_color)

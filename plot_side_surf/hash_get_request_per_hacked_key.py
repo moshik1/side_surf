@@ -54,8 +54,8 @@ def plot_hash(data_path1, data_path2):
     get_request_real = np.array(get_request_real, dtype=float)
     hash_keys_real = np.array(hash_keys_real, dtype=float)
 
-    hash_color = "#d95f0e"
-    real_color = "#1b9e77"
+    hash_color = "#f46d43"
+    real_color = "#006837"
     
     plt.plot(get_request.astype(float), hash_keys.astype(float), label='SuRF-Hash', color= hash_color)
     plt.plot(get_request_real.astype(float), hash_keys_real.astype(float), label='SuRF-Real', color= real_color)

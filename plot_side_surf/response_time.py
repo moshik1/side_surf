@@ -23,9 +23,9 @@ def plot_response_time1(data_path):
     fp_keys = data[start_step:end_step,4]
     
     print (steps)
-    fp_precent_color = "#a6dba0"
+    fp_precent_color = "#5aae61"
     fp_keys_color = "#1b7837"
-    keys_color = "#c2a5cf"
+    keys_color = "#762a83"
 #    seq_color = "#756bb1"
     x = steps
 
@@ -61,9 +61,9 @@ def plot_response_time2(data_path):
 
     print (steps)
     fp_precent_color = "#d95f0e"
-    fp_keys_color = "#31a354"
+    fp_keys_color = "#1b7837"
     keys_color = "#2c7fb8"
-    precent_keys_color = "#756bb1"
+    precent_keys_color = "#40004b"
     x = steps
 
     

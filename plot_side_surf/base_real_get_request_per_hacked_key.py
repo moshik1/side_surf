@@ -65,8 +65,8 @@ def plot_base(data_path1, data_path2):
 
 
 
-    base_color = "#d95f0e"
-    real_color = "#1b9e77"
+    base_color = "#f46d43"
+    real_color = "#1a9850"
     
     plt.plot(get_request_base.astype(float), base_keys.astype(float), label='SuRF-Base', color= base_color)
     plt.plot(get_request_real.astype(float), keys_real.astype(float), label='SuRF-Real', color= real_color)
