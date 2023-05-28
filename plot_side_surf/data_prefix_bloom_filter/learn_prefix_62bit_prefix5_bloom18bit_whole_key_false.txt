@@ -1,0 +1,100 @@
+ We are at size 8 key 7FaSvC2u bloom_filter_not_useful for this level is 1479
+ We are at size 8 key TXk0YH4k bloom_filter_not_useful for this level is 1480
+ We are at size 8 key rVm9sSAf bloom_filter_not_useful for this level is 1481
+ We are at size 8 key Uz8xOwp2 bloom_filter_not_useful for this level is 1482
+ We are at size 8 key ykmmhc6a bloom_filter_not_useful for this level is 1483
+ We are at size 8 key H24uQ3mF bloom_filter_not_useful for this level is 1484
+ We are at size 8 key zbLeHZd7 bloom_filter_not_useful for this level is 1485
+ We are at size 8 key qVUuokPo bloom_filter_not_useful for this level is 1486
+ We are at size 8 key 03eIeV7c bloom_filter_not_useful for this level is 1487
+ We are at size 8 key 1M8TRS4k bloom_filter_not_useful for this level is 1488
+ We are at size 8 key pRMR7hxC bloom_filter_not_useful for this level is 1489
+ We are at size 8 key HploDQwS bloom_filter_not_useful for this level is 1490
+ We are at size 8 key ikdzT5OJ bloom_filter_not_useful for this level is 1491
+ We are at size 8 key bgiMlNb2 bloom_filter_not_useful for this level is 1492
+ We are at size 8 key I8oUw1Mb bloom_filter_not_useful for this level is 1493
+ We are at size 8 key W4hFlqV9 bloom_filter_not_useful for this level is 1494
+ We are at size 8 key Rij0vFGq bloom_filter_not_useful for this level is 1495
+ We are at size 8 key IUt0t5JW bloom_filter_not_useful for this level is 1496
+ We are at size 8 key aifp7HFt bloom_filter_not_useful for this level is 1497
+ We are at size 8 key 9NmmYvoL bloom_filter_not_useful for this level is 1498
+ We are at size 8 key o3X0IEzc bloom_filter_not_useful for this level is 1499
+ We are at size 8 key IOBlBvXb bloom_filter_not_useful for this level is 1500
+ We are at size 8 key Vv85p52x bloom_filter_not_useful for this level is 1501
+ We are at size 8 key zzM8NSYp bloom_filter_not_useful for this level is 1502
+ We are at size 8 key FsGt9g59 bloom_filter_not_useful for this level is 1503
+ We are at size 8 key qTPqTJnM bloom_filter_not_useful for this level is 1504
+ We are at size 8 key hNVIYE0u bloom_filter_not_useful for this level is 1505
+ We are at size 8 key UwIGV8T4 bloom_filter_not_useful for this level is 1506
+ We are at size 8 key euF7oW1p bloom_filter_not_useful for this level is 1507
+ We are at size 8 key DlB1i6ng bloom_filter_not_useful for this level is 1508
+ We are at size 8 key XJx3eWgC bloom_filter_not_useful for this level is 1509
+ We are at size 8 key 80gU6SSf bloom_filter_not_useful for this level is 1510
+ We are at size 8 key xC3GydJO bloom_filter_not_useful for this level is 1511
+ We are at size 8 key 7xhVIowR bloom_filter_not_useful for this level is 1512
+ We are at size 8 key lbnBqi6g bloom_filter_not_useful for this level is 1513
+ We are at size 8 key CIBGkXUm bloom_filter_not_useful for this level is 1514
+ We are at size 8 key 55cGudMu bloom_filter_not_useful for this level is 1515
+ We are at size 8 key ftjmsZUj bloom_filter_not_useful for this level is 1516
+ We are at size 8 key TNX9GR4u bloom_filter_not_useful for this level is 1517
+ We are at size 8 key bNnw4rG7 bloom_filter_not_useful for this level is 1518
+ We are at size 8 key uyei5n9z bloom_filter_not_useful for this level is 1519
+ We are at size 8 key QCVChxhW bloom_filter_not_useful for this level is 1520
+ We are at size 8 key 02KccEyq bloom_filter_not_useful for this level is 1521
+ We are at size 8 key JYnP7Zrh bloom_filter_not_useful for this level is 1522
+ We are at size 8 key SOVHet5O bloom_filter_not_useful for this level is 1523
+ We are at size 8 key KcZuB2ml bloom_filter_not_useful for this level is 1524
+ We are at size 8 key gJVE1hOu bloom_filter_not_useful for this level is 1525
+ We are at size 8 key kErQ7QzP bloom_filter_not_useful for this level is 1526
+ We are at size 8 key XDT8Ktvc bloom_filter_not_useful for this level is 1527
+ We are at size 8 key zTYZULJ9 bloom_filter_not_useful for this level is 1528
+ We are at size 8 key RYjjzBXd bloom_filter_not_useful for this level is 1529
+ We are at size 8 key QmgusNG0 bloom_filter_not_useful for this level is 1530
+ We are at size 8 key VN0b7T9g bloom_filter_not_useful for this level is 1531
+ We are at size 8 key w5nPwS2t bloom_filter_not_useful for this level is 1532
+ We are at size 8 key eSCLknaq bloom_filter_not_useful for this level is 1533
+ We are at size 8 key xSDBFSOj bloom_filter_not_useful for this level is 1534
+ We are at size 8 key mscgKnzM bloom_filter_not_useful for this level is 1535
+ We are at size 8 key LGnk1tU9 bloom_filter_not_useful for this level is 1536
+ We are at size 8 key ilpK8AQF bloom_filter_not_useful for this level is 1537
+ We are at size 8 key CkkLXUYX bloom_filter_not_useful for this level is 1538
+ We are at size 8 key kYAvLpCM bloom_filter_not_useful for this level is 1539
+ We are at size 8 key YnYjHBpP bloom_filter_not_useful for this level is 1540
+ We are at size 8 key axk8CqI6 bloom_filter_not_useful for this level is 1541
+ We are at size 8 key Vg2oumuF bloom_filter_not_useful for this level is 1542
+ We are at size 8 key eSoabYI7 bloom_filter_not_useful for this level is 1543
+ We are at size 8 key g0vnnO3m bloom_filter_not_useful for this level is 1544
+ We are at size 8 key oxQhwyLT bloom_filter_not_useful for this level is 1545
+ We are at size 8 key VVLzUCaa bloom_filter_not_useful for this level is 1546
+ We are at size 8 key Z994b0gT bloom_filter_not_useful for this level is 1547
+ We are at size 8 key CzU0pT7x bloom_filter_not_useful for this level is 1548
+ We are at size 8 key bz1put6p bloom_filter_not_useful for this level is 1549
+ We are at size 8 key n2BiqgYI bloom_filter_not_useful for this level is 1550
+ We are at size 8 key 6SPuOgfk bloom_filter_not_useful for this level is 1551
+ We are at size 8 key 4448pXW4 bloom_filter_not_useful for this level is 1552
+ We are at size 8 key SLqTwGNA bloom_filter_not_useful for this level is 1553
+ We are at size 8 key 2dlRfN1N bloom_filter_not_useful for this level is 1554
+ We are at size 8 key TNaHTRl2 bloom_filter_not_useful for this level is 1555
+ We are at size 8 key VYgwKUnc bloom_filter_not_useful for this level is 1556
+ We are at size 8 key XEb2vNN6 bloom_filter_not_useful for this level is 1557
+ We are at size 8 key sKTQFiZo bloom_filter_not_useful for this level is 1558
+ We are at size 8 key Sql442NV bloom_filter_not_useful for this level is 1559
+ We are at size 8 key e0jPEofD bloom_filter_not_useful for this level is 1560
+ We are at size 8 key PcoqtdcT bloom_filter_not_useful for this level is 1561
+ We are at size 8 key jHyGhNbc bloom_filter_not_useful for this level is 1562
+ We are at size 8 key YAlOxWmX bloom_filter_not_useful for this level is 1563
+ We are at size 8 key XeYj2Va9 bloom_filter_not_useful for this level is 1564
+ We are at size 8 key nzuO5H6I bloom_filter_not_useful for this level is 1565
+** Total gets so far 6000000 keys we found 0 avg 0 %run 6%
+Total queries prefix attack 6000000 not found 6000000 found 0 %positive 0
+ Total queries prefix attack 6000000 bloom_filter_useful 3993740 bloom_filter_not_useful 2006260 %fp 0.334377 found_prefix 0
+ string found during prefix attack 
+Number of founds 0
+ Total gets 6000000
+ for prefix p 2 we have fp 0
+ for prefix p 3 we have fp 1000000
+ for prefix p 4 we have fp 1000000
+ for prefix p 5 we have fp 1565
+ for prefix p 6 we have fp 1565
+ for prefix p 7 we have fp 1565
+ for prefix p 8 we have fp 1565

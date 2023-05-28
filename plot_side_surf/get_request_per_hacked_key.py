@@ -52,16 +52,18 @@ def plot_counter_nocounters(data_path):
     print(len_D_25_40)
 
 
-    D_17_24_color = "#d95f0e"
-    D_1_16_color = "#7570b3"
-    D_25_40_color = "#1b9e77"
+    D_17_24_color = "#d73027"
+    D_1_16_color = "#f46d43"
+    D_25_40_color = "#313695"
     
-    plt.plot(get_request[start_D_17_24:start_D_17_24 + len_D_17_24 - 1].astype(float), D_17_24[start_D_17_24:start_D_17_24 + len_D_17_24 - 1].astype(float), label='Data set 1', color= D_17_24_color)
-    plt.plot(get_request[start_D_1_16:start_D_1_16 + len_D_1_16 - 1].astype(float), D_1_16[start_D_1_16:start_D_1_16 + len_D_1_16 - 1].astype(float), label='Data set 2', color= D_1_16_color)
-    plt.plot(get_request[start_D_25_40:start_D_25_40 + len_D_25_40 - 1].astype(float), D_25_40[start_D_25_40:start_D_25_40 + len_D_25_40 - 1].astype(float), label='Data set 3', color= D_25_40_color)
-    plt.ylabel('Avg. get requests per extracted key (Millions)', fontsize=12)
-    plt.legend()
-    plt.xlabel('Get Requests (Millions)', fontsize=12)
+    plt.plot(get_request[start_D_17_24:start_D_17_24 + len_D_17_24 - 1].astype(float)/1000, D_17_24[start_D_17_24:start_D_17_24 + len_D_17_24 - 1].astype(float), label='Data set 1', color= D_17_24_color)
+    plt.plot(get_request[start_D_1_16:start_D_1_16 + len_D_1_16 - 1].astype(float)/1000, D_1_16[start_D_1_16:start_D_1_16 + len_D_1_16 - 1].astype(float), label='Data set 2', color= D_1_16_color)
+    plt.plot(get_request[start_D_25_40:start_D_25_40 + len_D_25_40 - 1].astype(float)/1000, D_25_40[start_D_25_40:start_D_25_40 + len_D_25_40 - 1].astype(float), label='Data set 3', color= D_25_40_color)
+    plt.ylabel('Avg. Get Requests per Extracted Key (Billions)', fontsize=14)
+    plt.legend(fontsize=14)
+    plt.xlabel('Get Requests (Billions)', fontsize=14)
+    plt.yticks(fontsize=12)  # Adjust the font size as per your preference
+    plt.xticks(fontsize=12)  # Adjust the font size as per your preference
     
     plt.grid()
     plt.ylim([0,60])

@@ -1,0 +1,2561 @@
+ start loading 
+ start testing 
+Total queries prefix attack 1000000 not found 1000000 found 0 %positive 0
+ Total queries prefix attack 1000000 bloom_filter_useful 998435 bloom_filter_not_useful 1565 %fp 0.001565 found_prefix 0
+ Print all prefixes 
+ string found during prefix attack 
+**** We found a key so far we found 1 keys  total number of gets 1167407 avg 1167407
+**** We found a key so far we found 2 keys  total number of gets 1442528 avg 721264
+** Total gets so far 2000000 keys we found 2 avg 1000000 %run 33.9092%
+**** We found a key so far we found 3 keys  total number of gets 2092421 avg 697473
+**** We found a key so far we found 4 keys  total number of gets 2132301 avg 533075
+**** We found a key so far we found 5 keys  total number of gets 2241621 avg 448324
+**** We found a key so far we found 6 keys  total number of gets 2691250 avg 448541
+**** We found a key so far we found 7 keys  total number of gets 2738520 avg 391217
+**** We found a key so far we found 8 keys  total number of gets 2939457 avg 367432
+** Total gets so far 3000000 keys we found 8 avg 375000 %run 25.4028%
+**** We found a key so far we found 9 keys  total number of gets 3295324 avg 366147
+**** We found a key so far we found 10 keys  total number of gets 3353338 avg 335333
+**** We found a key so far we found 11 keys  total number of gets 3753633 avg 341239
+**** We found a key so far we found 12 keys  total number of gets 3850682 avg 320890
+**** We found a key so far we found 13 keys  total number of gets 3979626 avg 306125
+** Total gets so far 4000000 keys we found 13 avg 307692 %run 8.5483%
+**** We found a key so far we found 14 keys  total number of gets 4011208 avg 286514
+**** We found a key so far we found 15 keys  total number of gets 4093089 avg 272872
+**** We found a key so far we found 16 keys  total number of gets 4309645 avg 269352
+**** We found a key so far we found 17 keys  total number of gets 4847541 avg 285149
+**** We found a key so far we found 18 keys  total number of gets 4978125 avg 276562
+** Total gets so far 5000000 keys we found 18 avg 277777 %run 9.17811%
+**** We found a key so far we found 19 keys  total number of gets 5192429 avg 273285
+**** We found a key so far we found 20 keys  total number of gets 5560022 avg 278001
+**** We found a key so far we found 21 keys  total number of gets 5680084 avg 270480
+** Total gets so far 6000000 keys we found 21 avg 285714 %run 34.2331%
+**** We found a key so far we found 22 keys  total number of gets 6273486 avg 285158
+**** We found a key so far we found 23 keys  total number of gets 6379894 avg 277386
+** Total gets so far 7000000 keys we found 23 avg 304347 %run 60.1897%
+**** We found a key so far we found 24 keys  total number of gets 7033698 avg 293070
+**** We found a key so far we found 25 keys  total number of gets 7222050 avg 288882
+**** We found a key so far we found 26 keys  total number of gets 7244313 avg 278627
+**** We found a key so far we found 27 keys  total number of gets 7407144 avg 274338
+** Total gets so far 8000000 keys we found 27 avg 296296 %run 48.7559%
+**** We found a key so far we found 28 keys  total number of gets 8752556 avg 312591
+**** We found a key so far we found 29 keys  total number of gets 8892836 avg 306649
+** Total gets so far 9000000 keys we found 29 avg 310344 %run 44.9645%
+**** We found a key so far we found 30 keys  total number of gets 9105601 avg 303520
+**** We found a key so far we found 31 keys  total number of gets 9226798 avg 297638
+**** We found a key so far we found 32 keys  total number of gets 9378643 avg 293082
+**** We found a key so far we found 33 keys  total number of gets 9477073 avg 287184
+**** We found a key so far we found 34 keys  total number of gets 9478494 avg 278779
+**** We found a key so far we found 35 keys  total number of gets 9844309 avg 281265
+**** We found a key so far we found 36 keys  total number of gets 9963066 avg 276751
+** Total gets so far 10000000 keys we found 36 avg 277777 %run 15.4967%
+**** We found a key so far we found 37 keys  total number of gets 10064680 avg 272018
+**** We found a key so far we found 38 keys  total number of gets 10172835 avg 267706
+**** We found a key so far we found 39 keys  total number of gets 10299374 avg 264086
+**** We found a key so far we found 40 keys  total number of gets 10395019 avg 259875
+**** We found a key so far we found 41 keys  total number of gets 10536742 avg 256993
+**** We found a key so far we found 42 keys  total number of gets 10548767 avg 251161
+**** We found a key so far we found 43 keys  total number of gets 10781897 avg 250741
+**** We found a key so far we found 44 keys  total number of gets 10927402 avg 248350
+**** We found a key so far we found 45 keys  total number of gets 10998730 avg 244416
+** Total gets so far 11000000 keys we found 45 avg 244444 %run 0.532459%
+**** We found a key so far we found 46 keys  total number of gets 11041962 avg 240042
+**** We found a key so far we found 47 keys  total number of gets 11164791 avg 237548
+**** We found a key so far we found 48 keys  total number of gets 11399557 avg 237490
+**** We found a key so far we found 49 keys  total number of gets 11592763 avg 236587
+**** We found a key so far we found 50 keys  total number of gets 11869523 avg 237390
+** Total gets so far 12000000 keys we found 50 avg 240000 %run 54.7464%
+**** We found a key so far we found 51 keys  total number of gets 12133640 avg 237914
+**** We found a key so far we found 52 keys  total number of gets 12287299 avg 236294
+**** We found a key so far we found 53 keys  total number of gets 12683564 avg 239312
+** Total gets so far 13000000 keys we found 53 avg 245283 %run 32.7729%
+**** We found a key so far we found 54 keys  total number of gets 13157041 avg 243648
+**** We found a key so far we found 55 keys  total number of gets 13203037 avg 240055
+**** We found a key so far we found 56 keys  total number of gets 13643244 avg 243629
+**** We found a key so far we found 57 keys  total number of gets 13800415 avg 242112
+**** We found a key so far we found 58 keys  total number of gets 13903821 avg 239721
+** Total gets so far 14000000 keys we found 58 avg 241379 %run 40.3553%
+**** We found a key so far we found 59 keys  total number of gets 14000450 avg 237295
+**** We found a key so far we found 60 keys  total number of gets 14141772 avg 235696
+**** We found a key so far we found 61 keys  total number of gets 14179277 avg 232447
+**** We found a key so far we found 62 keys  total number of gets 14556823 avg 234787
+**** We found a key so far we found 63 keys  total number of gets 14759488 avg 234277
+**** We found a key so far we found 64 keys  total number of gets 14796137 avg 231189
+** Total gets so far 15000000 keys we found 64 avg 234375 %run 85.5384%
+**** We found a key so far we found 65 keys  total number of gets 15010810 avg 230935
+**** We found a key so far we found 66 keys  total number of gets 15302914 avg 231862
+**** We found a key so far we found 67 keys  total number of gets 15649131 avg 233569
+**** We found a key so far we found 68 keys  total number of gets 15745144 avg 231546
+** Total gets so far 16000000 keys we found 68 avg 235294 %run 6.93456%
+**** We found a key so far we found 69 keys  total number of gets 16042344 avg 232497
+**** We found a key so far we found 70 keys  total number of gets 16320305 avg 233147
+**** We found a key so far we found 71 keys  total number of gets 16408804 avg 231109
+**** We found a key so far we found 72 keys  total number of gets 16433637 avg 228244
+**** We found a key so far we found 73 keys  total number of gets 16572105 avg 227015
+**** We found a key so far we found 74 keys  total number of gets 16590652 avg 224198
+**** We found a key so far we found 75 keys  total number of gets 16760118 avg 223468
+** Total gets so far 17000000 keys we found 75 avg 226666 %run 0.651623%
+**** We found a key so far we found 76 keys  total number of gets 17166102 avg 225869
+**** We found a key so far we found 77 keys  total number of gets 17252429 avg 224057
+**** We found a key so far we found 78 keys  total number of gets 17469596 avg 223969
+**** We found a key so far we found 79 keys  total number of gets 17547736 avg 222123
+**** We found a key so far we found 80 keys  total number of gets 17771481 avg 222143
+**** We found a key so far we found 81 keys  total number of gets 17974358 avg 221905
+** Total gets so far 18000000 keys we found 81 avg 222222 %run 10.7587%
+**** We found a key so far we found 82 keys  total number of gets 18639330 avg 227308
+**** We found a key so far we found 83 keys  total number of gets 18733492 avg 225704
+** Total gets so far 19000000 keys we found 83 avg 228915 %run 11.8236%
+**** We found a key so far we found 84 keys  total number of gets 19029017 avg 226535
+**** We found a key so far we found 85 keys  total number of gets 19177007 avg 225611
+**** We found a key so far we found 86 keys  total number of gets 19465913 avg 226347
+**** We found a key so far we found 87 keys  total number of gets 19692310 avg 226348
+**** We found a key so far we found 88 keys  total number of gets 19768778 avg 224645
+**** We found a key so far we found 89 keys  total number of gets 19832478 avg 222836
+**** We found a key so far we found 90 keys  total number of gets 19962176 avg 221801
+** Total gets so far 20000000 keys we found 90 avg 222222 %run 15.8701%
+**** We found a key so far we found 91 keys  total number of gets 20198784 avg 221964
+**** We found a key so far we found 92 keys  total number of gets 20315746 avg 220823
+**** We found a key so far we found 93 keys  total number of gets 20725138 avg 222850
+**** We found a key so far we found 94 keys  total number of gets 20932831 avg 222689
+**** We found a key so far we found 95 keys  total number of gets 20998423 avg 221036
+** Total gets so far 21000000 keys we found 95 avg 221052 %run 0.661274%
+**** We found a key so far we found 96 keys  total number of gets 21178511 avg 220609
+**** We found a key so far we found 97 keys  total number of gets 21231171 avg 218878
+**** We found a key so far we found 98 keys  total number of gets 21352229 avg 217879
+**** We found a key so far we found 99 keys  total number of gets 21691126 avg 219102
+** Total gets so far 22000000 keys we found 99 avg 222222 %run 29.6%
+**** We found a key so far we found 100 keys  total number of gets 22080031 avg 220800
+**** We found a key so far we found 101 keys  total number of gets 22220118 avg 220001
+**** We found a key so far we found 102 keys  total number of gets 22824293 avg 223767
+**** We found a key so far we found 103 keys  total number of gets 22950517 avg 222820
+** Total gets so far 23000000 keys we found 103 avg 223300 %run 20.7621%
+**** We found a key so far we found 104 keys  total number of gets 23026725 avg 221410
+**** We found a key so far we found 105 keys  total number of gets 23153608 avg 220510
+**** We found a key so far we found 106 keys  total number of gets 23505434 avg 221749
+**** We found a key so far we found 107 keys  total number of gets 23642810 avg 220960
+**** We found a key so far we found 108 keys  total number of gets 23709920 avg 219536
+**** We found a key so far we found 109 keys  total number of gets 23823575 avg 218564
+** Total gets so far 24000000 keys we found 109 avg 220183 %run 74.0257%
+**** We found a key so far we found 110 keys  total number of gets 24413373 avg 221939
+**** We found a key so far we found 111 keys  total number of gets 24537266 avg 221056
+**** We found a key so far we found 112 keys  total number of gets 24762119 avg 221090
+** Total gets so far 25000000 keys we found 112 avg 223214 %run 99.812%
+**** We found a key so far we found 113 keys  total number of gets 25346099 avg 224301
+**** We found a key so far we found 114 keys  total number of gets 25360435 avg 222459
+**** We found a key so far we found 115 keys  total number of gets 25556985 avg 222234
+**** We found a key so far we found 116 keys  total number of gets 25649764 avg 221118
+**** We found a key so far we found 117 keys  total number of gets 25868888 avg 221101
+** Total gets so far 26000000 keys we found 117 avg 222222 %run 55.0128%
+**** We found a key so far we found 118 keys  total number of gets 26015979 avg 220474
+**** We found a key so far we found 119 keys  total number of gets 26282339 avg 220859
+**** We found a key so far we found 120 keys  total number of gets 26380323 avg 219836
+**** We found a key so far we found 121 keys  total number of gets 26470720 avg 218766
+**** We found a key so far we found 122 keys  total number of gets 26950422 avg 220905
+** Total gets so far 27000000 keys we found 122 avg 221311 %run 20.802%
+**** We found a key so far we found 123 keys  total number of gets 27174343 avg 220929
+**** We found a key so far we found 124 keys  total number of gets 27283503 avg 220028
+**** We found a key so far we found 125 keys  total number of gets 27658097 avg 221264
+**** We found a key so far we found 126 keys  total number of gets 27928753 avg 221656
+** Total gets so far 28000000 keys we found 126 avg 222222 %run 29.8941%
+**** We found a key so far we found 127 keys  total number of gets 28029332 avg 220703
+**** We found a key so far we found 128 keys  total number of gets 28325831 avg 221295
+**** We found a key so far we found 129 keys  total number of gets 28334727 avg 219649
+**** We found a key so far we found 130 keys  total number of gets 28521367 avg 219395
+** Total gets so far 29000000 keys we found 130 avg 223076 %run 0.829109%
+**** We found a key so far we found 131 keys  total number of gets 29152701 avg 222539
+**** We found a key so far we found 132 keys  total number of gets 29280564 avg 221822
+**** We found a key so far we found 133 keys  total number of gets 29489414 avg 221724
+**** We found a key so far we found 134 keys  total number of gets 29540524 avg 220451
+**** We found a key so far we found 135 keys  total number of gets 29681745 avg 219864
+** Total gets so far 30000000 keys we found 135 avg 222222 %run 33.5361%
+**** We found a key so far we found 136 keys  total number of gets 30329124 avg 223008
+**** We found a key so far we found 137 keys  total number of gets 30432414 avg 222134
+**** We found a key so far we found 138 keys  total number of gets 30555440 avg 221416
+**** We found a key so far we found 139 keys  total number of gets 30682532 avg 220737
+**** We found a key so far we found 140 keys  total number of gets 30869079 avg 220493
+** Total gets so far 31000000 keys we found 140 avg 221428 %run 54.9327%
+**** We found a key so far we found 141 keys  total number of gets 31007773 avg 219913
+**** We found a key so far we found 142 keys  total number of gets 31361663 avg 220856
+**** We found a key so far we found 143 keys  total number of gets 31583579 avg 220864
+**** We found a key so far we found 144 keys  total number of gets 31702304 avg 220154
+**** We found a key so far we found 145 keys  total number of gets 31811016 avg 219386
+** Total gets so far 32000000 keys we found 145 avg 220689 %run 79.2953%
+**** We found a key so far we found 146 keys  total number of gets 32016449 avg 219290
+**** We found a key so far we found 147 keys  total number of gets 32122778 avg 218522
+**** We found a key so far we found 148 keys  total number of gets 32310665 avg 218315
+**** We found a key so far we found 149 keys  total number of gets 32739621 avg 219729
+**** We found a key so far we found 150 keys  total number of gets 32948142 avg 219654
+** Total gets so far 33000000 keys we found 150 avg 220000 %run 21.7587%
+**** We found a key so far we found 151 keys  total number of gets 33317620 avg 220646
+**** We found a key so far we found 152 keys  total number of gets 33341153 avg 219349
+**** We found a key so far we found 153 keys  total number of gets 33564639 avg 219376
+** Total gets so far 34000000 keys we found 153 avg 222222 %run 82.6726%
+**** We found a key so far we found 154 keys  total number of gets 34031378 avg 220982
+**** We found a key so far we found 155 keys  total number of gets 34136942 avg 220238
+**** We found a key so far we found 156 keys  total number of gets 34455889 avg 220871
+**** We found a key so far we found 157 keys  total number of gets 34535253 avg 219969
+**** We found a key so far we found 158 keys  total number of gets 34660910 avg 219372
+**** We found a key so far we found 159 keys  total number of gets 34684118 avg 218139
+**** We found a key so far we found 160 keys  total number of gets 34684728 avg 216779
+**** We found a key so far we found 161 keys  total number of gets 34724643 avg 215681
+**** We found a key so far we found 162 keys  total number of gets 34778561 avg 214682
+** Total gets so far 35000000 keys we found 162 avg 216049 %run 92.9131%
+**** We found a key so far we found 163 keys  total number of gets 35210874 avg 216017
+**** We found a key so far we found 164 keys  total number of gets 35213595 avg 214717
+**** We found a key so far we found 165 keys  total number of gets 35220715 avg 213458
+**** We found a key so far we found 166 keys  total number of gets 35333833 avg 212854
+**** We found a key so far we found 167 keys  total number of gets 35511144 avg 212641
+**** We found a key so far we found 168 keys  total number of gets 35583048 avg 211803
+**** We found a key so far we found 169 keys  total number of gets 35850867 avg 212135
+** Total gets so far 36000000 keys we found 169 avg 213017 %run 62.5743%
+**** We found a key so far we found 170 keys  total number of gets 36099608 avg 212350
+**** We found a key so far we found 171 keys  total number of gets 36529567 avg 213623
+**** We found a key so far we found 172 keys  total number of gets 36575543 avg 212648
+** Total gets so far 37000000 keys we found 172 avg 215116 %run 78.0974%
+**** We found a key so far we found 173 keys  total number of gets 37256721 avg 215356
+**** We found a key so far we found 174 keys  total number of gets 37487903 avg 215447
+**** We found a key so far we found 175 keys  total number of gets 37490000 avg 214228
+**** We found a key so far we found 176 keys  total number of gets 37615134 avg 213722
+**** We found a key so far we found 177 keys  total number of gets 37927731 avg 214280
+** Total gets so far 38000000 keys we found 177 avg 214689 %run 30.3229%
+**** We found a key so far we found 178 keys  total number of gets 38110439 avg 214103
+**** We found a key so far we found 179 keys  total number of gets 38517961 avg 215184
+**** We found a key so far we found 180 keys  total number of gets 38648465 avg 214713
+** Total gets so far 39000000 keys we found 180 avg 216666 %run 47.5001%
+**** We found a key so far we found 181 keys  total number of gets 39046974 avg 215729
+**** We found a key so far we found 182 keys  total number of gets 39094844 avg 214806
+**** We found a key so far we found 183 keys  total number of gets 39512970 avg 215917
+**** We found a key so far we found 184 keys  total number of gets 39554255 avg 214968
+**** We found a key so far we found 185 keys  total number of gets 39625047 avg 214189
+**** We found a key so far we found 186 keys  total number of gets 39719835 avg 213547
+**** We found a key so far we found 187 keys  total number of gets 39867304 avg 213194
+** Total gets so far 40000000 keys we found 187 avg 213903 %run 55.6775%
+**** We found a key so far we found 188 keys  total number of gets 40007325 avg 212804
+**** We found a key so far we found 189 keys  total number of gets 40051169 avg 211910
+**** We found a key so far we found 190 keys  total number of gets 40126903 avg 211194
+**** We found a key so far we found 191 keys  total number of gets 40300137 avg 210995
+**** We found a key so far we found 192 keys  total number of gets 40618494 avg 211554
+**** We found a key so far we found 193 keys  total number of gets 40768894 avg 211237
+**** We found a key so far we found 194 keys  total number of gets 40878741 avg 210715
+** Total gets so far 41000000 keys we found 194 avg 211340 %run 50.8786%
+**** We found a key so far we found 195 keys  total number of gets 41004730 avg 210280
+**** We found a key so far we found 196 keys  total number of gets 41117469 avg 209783
+**** We found a key so far we found 197 keys  total number of gets 41269931 avg 209492
+**** We found a key so far we found 198 keys  total number of gets 41782708 avg 211023
+**** We found a key so far we found 199 keys  total number of gets 41840205 avg 210252
+** Total gets so far 42000000 keys we found 199 avg 211055 %run 67.0479%
+**** We found a key so far we found 200 keys  total number of gets 42077860 avg 210389
+**** We found a key so far we found 201 keys  total number of gets 42301339 avg 210454
+**** We found a key so far we found 202 keys  total number of gets 42364628 avg 209725
+**** We found a key so far we found 203 keys  total number of gets 42819868 avg 210935
+** Total gets so far 43000000 keys we found 203 avg 211822 %run 75.5811%
+**** We found a key so far we found 204 keys  total number of gets 43014818 avg 210856
+**** We found a key so far we found 205 keys  total number of gets 43016794 avg 209838
+**** We found a key so far we found 206 keys  total number of gets 43053594 avg 208998
+**** We found a key so far we found 207 keys  total number of gets 43137363 avg 208393
+**** We found a key so far we found 208 keys  total number of gets 43249200 avg 207928
+**** We found a key so far we found 209 keys  total number of gets 43485129 avg 208062
+**** We found a key so far we found 210 keys  total number of gets 43690791 avg 208051
+**** We found a key so far we found 211 keys  total number of gets 43718455 avg 207196
+**** We found a key so far we found 212 keys  total number of gets 43946047 avg 207292
+**** We found a key so far we found 213 keys  total number of gets 43959572 avg 206382
+** Total gets so far 44000000 keys we found 213 avg 206572 %run 16.9628%
+**** We found a key so far we found 214 keys  total number of gets 44131020 avg 206219
+**** We found a key so far we found 215 keys  total number of gets 44263211 avg 205875
+**** We found a key so far we found 216 keys  total number of gets 44341601 avg 205285
+**** We found a key so far we found 217 keys  total number of gets 44940770 avg 207100
+**** We found a key so far we found 218 keys  total number of gets 44996002 avg 206403
+** Total gets so far 45000000 keys we found 218 avg 206422 %run 1.6771%
+**** We found a key so far we found 219 keys  total number of gets 45195229 avg 206370
+**** We found a key so far we found 220 keys  total number of gets 45308501 avg 205947
+**** We found a key so far we found 221 keys  total number of gets 45328890 avg 205108
+**** We found a key so far we found 222 keys  total number of gets 45386627 avg 204444
+**** We found a key so far we found 223 keys  total number of gets 45401455 avg 203593
+**** We found a key so far we found 224 keys  total number of gets 45697985 avg 204008
+**** We found a key so far we found 225 keys  total number of gets 45707508 avg 203144
+**** We found a key so far we found 226 keys  total number of gets 45830053 avg 202787
+** Total gets so far 46000000 keys we found 226 avg 203539 %run 71.3076%
+**** We found a key so far we found 227 keys  total number of gets 46001094 avg 202647
+**** We found a key so far we found 228 keys  total number of gets 46159825 avg 202455
+**** We found a key so far we found 229 keys  total number of gets 46695317 avg 203909
+**** We found a key so far we found 230 keys  total number of gets 46775162 avg 203370
+** Total gets so far 47000000 keys we found 230 avg 204347 %run 94.3393%
+**** We found a key so far we found 231 keys  total number of gets 47211380 avg 204378
+**** We found a key so far we found 232 keys  total number of gets 47425274 avg 204419
+**** We found a key so far we found 233 keys  total number of gets 47544407 avg 204053
+**** We found a key so far we found 234 keys  total number of gets 47632566 avg 203557
+**** We found a key so far we found 235 keys  total number of gets 47653145 avg 202779
+**** We found a key so far we found 236 keys  total number of gets 47810371 avg 202586
+**** We found a key so far we found 237 keys  total number of gets 47941559 avg 202285
+** Total gets so far 48000000 keys we found 237 avg 202531 %run 24.5208%
+**** We found a key so far we found 238 keys  total number of gets 48092084 avg 202067
+**** We found a key so far we found 239 keys  total number of gets 48156810 avg 201492
+**** We found a key so far we found 240 keys  total number of gets 48508841 avg 202120
+**** We found a key so far we found 241 keys  total number of gets 48573974 avg 201551
+**** We found a key so far we found 242 keys  total number of gets 48868052 avg 201934
+** Total gets so far 49000000 keys we found 242 avg 202479 %run 55.3636%
+**** We found a key so far we found 243 keys  total number of gets 49091078 avg 202020
+**** We found a key so far we found 244 keys  total number of gets 49237693 avg 201793
+**** We found a key so far we found 245 keys  total number of gets 49398870 avg 201628
+**** We found a key so far we found 246 keys  total number of gets 49847803 avg 202633
+**** We found a key so far we found 247 keys  total number of gets 49974218 avg 202324
+** Total gets so far 50000000 keys we found 247 avg 202429 %run 10.8174%
+**** We found a key so far we found 248 keys  total number of gets 50145024 avg 202197
+**** We found a key so far we found 249 keys  total number of gets 50174925 avg 201505
+**** We found a key so far we found 250 keys  total number of gets 50217501 avg 200870
+**** We found a key so far we found 251 keys  total number of gets 50350076 avg 200597
+**** We found a key so far we found 252 keys  total number of gets 50440472 avg 200160
+**** We found a key so far we found 253 keys  total number of gets 50540928 avg 199766
+**** We found a key so far we found 254 keys  total number of gets 50632372 avg 199340
+** Total gets so far 51000000 keys we found 254 avg 200787 %run 54.2525%
+**** We found a key so far we found 255 keys  total number of gets 51193195 avg 200757
+**** We found a key so far we found 256 keys  total number of gets 51421668 avg 200865
+**** We found a key so far we found 257 keys  total number of gets 51524815 avg 200485
+**** We found a key so far we found 258 keys  total number of gets 51574418 avg 199900
+**** We found a key so far we found 259 keys  total number of gets 51647278 avg 199410
+**** We found a key so far we found 260 keys  total number of gets 51664664 avg 198710
+**** We found a key so far we found 261 keys  total number of gets 51752218 avg 198284
+**** We found a key so far we found 262 keys  total number of gets 51901980 avg 198099
+**** We found a key so far we found 263 keys  total number of gets 51946662 avg 197515
+** Total gets so far 52000000 keys we found 263 avg 197718 %run 22.3797%
+**** We found a key so far we found 264 keys  total number of gets 52180379 avg 197652
+**** We found a key so far we found 265 keys  total number of gets 52554201 avg 198317
+** Total gets so far 53000000 keys we found 265 avg 200000 %run 87.0523%
+**** We found a key so far we found 266 keys  total number of gets 53443051 avg 200913
+**** We found a key so far we found 267 keys  total number of gets 53517751 avg 200441
+**** We found a key so far we found 268 keys  total number of gets 53568833 avg 199883
+**** We found a key so far we found 269 keys  total number of gets 53731284 avg 199744
+**** We found a key so far we found 270 keys  total number of gets 53799915 avg 199258
+**** We found a key so far we found 271 keys  total number of gets 53889502 avg 198854
+**** We found a key so far we found 272 keys  total number of gets 53918870 avg 198231
+**** We found a key so far we found 273 keys  total number of gets 53991402 avg 197770
+** Total gets so far 54000000 keys we found 273 avg 197802 %run 3.60721%
+**** We found a key so far we found 274 keys  total number of gets 54056443 avg 197286
+**** We found a key so far we found 275 keys  total number of gets 54213335 avg 197139
+**** We found a key so far we found 276 keys  total number of gets 54464730 avg 197335
+**** We found a key so far we found 277 keys  total number of gets 54890702 avg 198161
+**** We found a key so far we found 278 keys  total number of gets 54991536 avg 197811
+** Total gets so far 55000000 keys we found 278 avg 197841 %run 3.55099%
+**** We found a key so far we found 279 keys  total number of gets 55025806 avg 197225
+**** We found a key so far we found 280 keys  total number of gets 55108286 avg 196815
+**** We found a key so far we found 281 keys  total number of gets 55287404 avg 196752
+**** We found a key so far we found 282 keys  total number of gets 55444560 avg 196611
+**** We found a key so far we found 283 keys  total number of gets 55520284 avg 196184
+**** We found a key so far we found 284 keys  total number of gets 55612666 avg 195819
+**** We found a key so far we found 285 keys  total number of gets 55618609 avg 195153
+**** We found a key so far we found 286 keys  total number of gets 55862334 avg 195322
+** Total gets so far 56000000 keys we found 286 avg 195804 %run 57.7628%
+**** We found a key so far we found 287 keys  total number of gets 56059673 avg 195329
+**** We found a key so far we found 288 keys  total number of gets 56256227 avg 195334
+**** We found a key so far we found 289 keys  total number of gets 56344629 avg 194964
+**** We found a key so far we found 290 keys  total number of gets 56563467 avg 195046
+**** We found a key so far we found 291 keys  total number of gets 56993818 avg 195855
+** Total gets so far 57000000 keys we found 291 avg 195876 %run 2.59348%
+**** We found a key so far we found 292 keys  total number of gets 57075074 avg 195462
+**** We found a key so far we found 293 keys  total number of gets 57773021 avg 197177
+**** We found a key so far we found 294 keys  total number of gets 57986673 avg 197233
+** Total gets so far 58000000 keys we found 294 avg 197278 %run 5.59145%
+**** We found a key so far we found 295 keys  total number of gets 58341275 avg 197767
+**** We found a key so far we found 296 keys  total number of gets 58501545 avg 197640
+**** We found a key so far we found 297 keys  total number of gets 58530506 avg 197072
+**** We found a key so far we found 298 keys  total number of gets 58843783 avg 197462
+** Total gets so far 59000000 keys we found 298 avg 197986 %run 65.5466%
+**** We found a key so far we found 299 keys  total number of gets 59130016 avg 197759
+**** We found a key so far we found 300 keys  total number of gets 59261336 avg 197537
+**** We found a key so far we found 301 keys  total number of gets 59494859 avg 197657
+**** We found a key so far we found 302 keys  total number of gets 59540212 avg 197153
+**** We found a key so far we found 303 keys  total number of gets 59949683 avg 197853
+** Total gets so far 60000000 keys we found 303 avg 198019 %run 21.1121%
+**** We found a key so far we found 304 keys  total number of gets 60091374 avg 197668
+**** We found a key so far we found 305 keys  total number of gets 60470823 avg 198264
+**** We found a key so far we found 306 keys  total number of gets 60547489 avg 197867
+**** We found a key so far we found 307 keys  total number of gets 60706981 avg 197742
+**** We found a key so far we found 308 keys  total number of gets 60823413 avg 197478
+** Total gets so far 61000000 keys we found 308 avg 198051 %run 74.0937%
+**** We found a key so far we found 309 keys  total number of gets 61024633 avg 197490
+**** We found a key so far we found 310 keys  total number of gets 61132158 avg 197200
+**** We found a key so far we found 311 keys  total number of gets 61490207 avg 197717
+** Total gets so far 62000000 keys we found 311 avg 199356 %run 13.9035%
+**** We found a key so far we found 312 keys  total number of gets 62048246 avg 198872
+**** We found a key so far we found 313 keys  total number of gets 62175603 avg 198644
+**** We found a key so far we found 314 keys  total number of gets 62220409 avg 198154
+** Total gets so far 63000000 keys we found 314 avg 200636 %run 27.108%
+**** We found a key so far we found 315 keys  total number of gets 63298642 avg 200948
+**** We found a key so far we found 316 keys  total number of gets 63322573 avg 200387
+**** We found a key so far we found 317 keys  total number of gets 63528831 avg 200406
+**** We found a key so far we found 318 keys  total number of gets 63934522 avg 201051
+** Total gets so far 64000000 keys we found 318 avg 201257 %run 27.4735%
+**** We found a key so far we found 319 keys  total number of gets 64583107 avg 202454
+**** We found a key so far we found 320 keys  total number of gets 64747431 avg 202335
+**** We found a key so far we found 321 keys  total number of gets 64842910 avg 202002
+**** We found a key so far we found 322 keys  total number of gets 64949671 avg 201707
+** Total gets so far 65000000 keys we found 322 avg 201863 %run 21.1171%
+**** We found a key so far we found 323 keys  total number of gets 65324265 avg 202242
+**** We found a key so far we found 324 keys  total number of gets 65438083 avg 201969
+**** We found a key so far we found 325 keys  total number of gets 65577021 avg 201775
+**** We found a key so far we found 326 keys  total number of gets 65639210 avg 201347
+**** We found a key so far we found 327 keys  total number of gets 65846006 avg 201363
+** Total gets so far 66000000 keys we found 327 avg 201834 %run 64.6139%
+**** We found a key so far we found 328 keys  total number of gets 66016707 avg 201270
+**** We found a key so far we found 329 keys  total number of gets 66445807 avg 201962
+**** We found a key so far we found 330 keys  total number of gets 66484416 avg 201467
+**** We found a key so far we found 331 keys  total number of gets 66598350 avg 201203
+**** We found a key so far we found 332 keys  total number of gets 66749007 avg 201051
+**** We found a key so far we found 333 keys  total number of gets 66898898 avg 200897
+**** We found a key so far we found 334 keys  total number of gets 66994161 avg 200581
+** Total gets so far 67000000 keys we found 334 avg 200598 %run 2.44957%
+**** We found a key so far we found 335 keys  total number of gets 67433676 avg 201294
+**** We found a key so far we found 336 keys  total number of gets 67668198 avg 201393
+**** We found a key so far we found 337 keys  total number of gets 67856426 avg 201354
+** Total gets so far 68000000 keys we found 337 avg 201780 %run 60.2418%
+**** We found a key so far we found 338 keys  total number of gets 68268157 avg 201976
+**** We found a key so far we found 339 keys  total number of gets 68425453 avg 201844
+**** We found a key so far we found 340 keys  total number of gets 68465801 avg 201370
+**** We found a key so far we found 341 keys  total number of gets 68570959 avg 201087
+**** We found a key so far we found 342 keys  total number of gets 68571984 avg 200502
+** Total gets so far 69000000 keys we found 342 avg 201754 %run 79.5907%
+**** We found a key so far we found 343 keys  total number of gets 69042988 avg 201291
+**** We found a key so far we found 344 keys  total number of gets 69415296 avg 201788
+**** We found a key so far we found 345 keys  total number of gets 69611308 avg 201771
+**** We found a key so far we found 346 keys  total number of gets 69748567 avg 201585
+** Total gets so far 70000000 keys we found 346 avg 202312 %run 5.4983%
+**** We found a key so far we found 347 keys  total number of gets 70036259 avg 201833
+**** We found a key so far we found 348 keys  total number of gets 70127478 avg 201515
+**** We found a key so far we found 349 keys  total number of gets 70183046 avg 201097
+**** We found a key so far we found 350 keys  total number of gets 70325340 avg 200929
+**** We found a key so far we found 351 keys  total number of gets 70342616 avg 200406
+**** We found a key so far we found 352 keys  total number of gets 70342869 avg 199837
+**** We found a key so far we found 353 keys  total number of gets 70567032 avg 199906
+** Total gets so far 71000000 keys we found 353 avg 201133 %run 81.6685%
+**** We found a key so far we found 354 keys  total number of gets 71086925 avg 200810
+**** We found a key so far we found 355 keys  total number of gets 71192822 avg 200543
+**** We found a key so far we found 356 keys  total number of gets 71343053 avg 200401
+**** We found a key so far we found 357 keys  total number of gets 71445569 avg 200127
+**** We found a key so far we found 358 keys  total number of gets 71471537 avg 199641
+**** We found a key so far we found 359 keys  total number of gets 71518501 avg 199215
+**** We found a key so far we found 360 keys  total number of gets 71708955 avg 199191
+** Total gets so far 72000000 keys we found 360 avg 200000 %run 22.1191%
+**** We found a key so far we found 361 keys  total number of gets 72063005 avg 199620
+**** We found a key so far we found 362 keys  total number of gets 72134326 avg 199266
+**** We found a key so far we found 363 keys  total number of gets 72156165 avg 198777
+**** We found a key so far we found 364 keys  total number of gets 72349483 avg 198762
+**** We found a key so far we found 365 keys  total number of gets 72375480 avg 198288
+** Total gets so far 73000000 keys we found 365 avg 200000 %run 62.0418%
+**** We found a key so far we found 366 keys  total number of gets 73321872 avg 200332
+**** We found a key so far we found 367 keys  total number of gets 73382454 avg 199952
+**** We found a key so far we found 368 keys  total number of gets 73512257 avg 199761
+** Total gets so far 74000000 keys we found 368 avg 201086 %run 4.65157%
+**** We found a key so far we found 369 keys  total number of gets 74067132 avg 200723
+**** We found a key so far we found 370 keys  total number of gets 74354892 avg 200959
+**** We found a key so far we found 371 keys  total number of gets 74363735 avg 200441
+** Total gets so far 75000000 keys we found 371 avg 202156 %run 66.9699%
+**** We found a key so far we found 372 keys  total number of gets 75233098 avg 202239
+**** We found a key so far we found 373 keys  total number of gets 75256241 avg 201759
+**** We found a key so far we found 374 keys  total number of gets 75397628 avg 201597
+**** We found a key so far we found 375 keys  total number of gets 75623786 avg 201663
+**** We found a key so far we found 376 keys  total number of gets 75740855 avg 201438
+** Total gets so far 76000000 keys we found 376 avg 202127 %run 8.73418%
+**** We found a key so far we found 377 keys  total number of gets 76026066 avg 201660
+**** We found a key so far we found 378 keys  total number of gets 76384035 avg 202074
+**** We found a key so far we found 379 keys  total number of gets 76787764 avg 202606
+**** We found a key so far we found 380 keys  total number of gets 76932902 avg 202455
+** Total gets so far 77000000 keys we found 380 avg 202631 %run 28.1532%
+**** We found a key so far we found 381 keys  total number of gets 77158290 avg 202515
+**** We found a key so far we found 382 keys  total number of gets 77261313 avg 202254
+**** We found a key so far we found 383 keys  total number of gets 77639451 avg 202713
+**** We found a key so far we found 384 keys  total number of gets 77687469 avg 202311
+** Total gets so far 78000000 keys we found 384 avg 203125 %run 31.1344%
+**** We found a key so far we found 385 keys  total number of gets 78020735 avg 202651
+**** We found a key so far we found 386 keys  total number of gets 78204566 avg 202602
+**** We found a key so far we found 387 keys  total number of gets 78416944 avg 202627
+**** We found a key so far we found 388 keys  total number of gets 78586455 avg 202542
+**** We found a key so far we found 389 keys  total number of gets 78654824 avg 202197
+**** We found a key so far we found 390 keys  total number of gets 78860418 avg 202206
+**** We found a key so far we found 391 keys  total number of gets 78912002 avg 201820
+**** We found a key so far we found 392 keys  total number of gets 78970596 avg 201455
+** Total gets so far 79000000 keys we found 392 avg 201530 %run 12.3372%
+**** We found a key so far we found 393 keys  total number of gets 79142946 avg 201381
+**** We found a key so far we found 394 keys  total number of gets 79828994 avg 202611
+**** We found a key so far we found 395 keys  total number of gets 79864706 avg 202189
+** Total gets so far 80000000 keys we found 395 avg 202531 %run 56.7676%
+**** We found a key so far we found 396 keys  total number of gets 80047327 avg 202139
+**** We found a key so far we found 397 keys  total number of gets 80415262 avg 202557
+**** We found a key so far we found 398 keys  total number of gets 80823848 avg 203074
+** Total gets so far 81000000 keys we found 398 avg 203517 %run 73.9112%
+**** We found a key so far we found 399 keys  total number of gets 81013843 avg 203042
+**** We found a key so far we found 400 keys  total number of gets 81098262 avg 202745
+**** We found a key so far we found 401 keys  total number of gets 81436639 avg 203083
+** Total gets so far 82000000 keys we found 401 avg 204488 %run 36.3801%
+**** We found a key so far we found 402 keys  total number of gets 82106357 avg 204244
+**** We found a key so far we found 403 keys  total number of gets 82254566 avg 204105
+**** We found a key so far we found 404 keys  total number of gets 82346247 avg 203827
+**** We found a key so far we found 405 keys  total number of gets 82404581 avg 203468
+**** We found a key so far we found 406 keys  total number of gets 82775327 avg 203880
+**** We found a key so far we found 407 keys  total number of gets 82956829 avg 203825
+** Total gets so far 83000000 keys we found 407 avg 203931 %run 18.1137%
+**** We found a key so far we found 408 keys  total number of gets 83142693 avg 203781
+**** We found a key so far we found 409 keys  total number of gets 83215278 avg 203460
+**** We found a key so far we found 410 keys  total number of gets 83613745 avg 203935
+**** We found a key so far we found 411 keys  total number of gets 83665333 avg 203565
+**** We found a key so far we found 412 keys  total number of gets 83770038 avg 203325
+** Total gets so far 84000000 keys we found 412 avg 203883 %run 96.4893%
+**** We found a key so far we found 413 keys  total number of gets 84001327 avg 203393
+**** We found a key so far we found 414 keys  total number of gets 84358290 avg 203763
+**** We found a key so far we found 415 keys  total number of gets 84397085 avg 203366
+**** We found a key so far we found 416 keys  total number of gets 84607688 avg 203383
+**** We found a key so far we found 417 keys  total number of gets 84690666 avg 203095
+** Total gets so far 85000000 keys we found 417 avg 203836 %run 29.793%
+**** We found a key so far we found 418 keys  total number of gets 85380706 avg 204260
+**** We found a key so far we found 419 keys  total number of gets 85505633 avg 204070
+**** We found a key so far we found 420 keys  total number of gets 85578824 avg 203759
+**** We found a key so far we found 421 keys  total number of gets 85581790 avg 203282
+**** We found a key so far we found 422 keys  total number of gets 85727066 avg 203144
+**** We found a key so far we found 423 keys  total number of gets 85925631 avg 203133
+**** We found a key so far we found 424 keys  total number of gets 85987275 avg 202800
+** Total gets so far 86000000 keys we found 424 avg 202830 %run 5.33886%
+**** We found a key so far we found 425 keys  total number of gets 86110240 avg 202612
+**** We found a key so far we found 426 keys  total number of gets 86337959 avg 202671
+**** We found a key so far we found 427 keys  total number of gets 86338357 avg 202197
+**** We found a key so far we found 428 keys  total number of gets 86364126 avg 201785
+**** We found a key so far we found 429 keys  total number of gets 86482822 avg 201591
+**** We found a key so far we found 430 keys  total number of gets 86721673 avg 201678
+**** We found a key so far we found 431 keys  total number of gets 86836522 avg 201476
+**** We found a key so far we found 432 keys  total number of gets 86856569 avg 201056
+**** We found a key so far we found 433 keys  total number of gets 86926337 avg 200753
+** Total gets so far 87000000 keys we found 433 avg 200923 %run 30.9078%
+**** We found a key so far we found 434 keys  total number of gets 87076164 avg 200636
+**** We found a key so far we found 435 keys  total number of gets 87361107 avg 200830
+**** We found a key so far we found 436 keys  total number of gets 87372771 avg 200396
+**** We found a key so far we found 437 keys  total number of gets 87502155 avg 200233
+**** We found a key so far we found 438 keys  total number of gets 87717793 avg 200268
+**** We found a key so far we found 439 keys  total number of gets 87752879 avg 199892
+**** We found a key so far we found 440 keys  total number of gets 87935006 avg 199852
+** Total gets so far 88000000 keys we found 440 avg 200000 %run 27.2704%
+**** We found a key so far we found 441 keys  total number of gets 88120569 avg 199819
+**** We found a key so far we found 442 keys  total number of gets 88289322 avg 199749
+**** We found a key so far we found 443 keys  total number of gets 88350134 avg 199435
+**** We found a key so far we found 444 keys  total number of gets 88526241 avg 199383
+**** We found a key so far we found 445 keys  total number of gets 88681156 avg 199283
+** Total gets so far 89000000 keys we found 445 avg 200000 %run 33.7833%
+**** We found a key so far we found 446 keys  total number of gets 89058569 avg 199682
+**** We found a key so far we found 447 keys  total number of gets 89108487 avg 199347
+**** We found a key so far we found 448 keys  total number of gets 89248919 avg 199216
+**** We found a key so far we found 449 keys  total number of gets 89432116 avg 199180
+**** We found a key so far we found 450 keys  total number of gets 89589982 avg 199088
+**** We found a key so far we found 451 keys  total number of gets 89736621 avg 198972
+**** We found a key so far we found 452 keys  total number of gets 89773081 avg 198613
+**** We found a key so far we found 453 keys  total number of gets 89809486 avg 198254
+**** We found a key so far we found 454 keys  total number of gets 89931679 avg 198087
+** Total gets so far 90000000 keys we found 454 avg 198237 %run 28.6664%
+**** We found a key so far we found 455 keys  total number of gets 90045908 avg 197903
+**** We found a key so far we found 456 keys  total number of gets 90091310 avg 197568
+**** We found a key so far we found 457 keys  total number of gets 90142443 avg 197248
+**** We found a key so far we found 458 keys  total number of gets 90616744 avg 197853
+**** We found a key so far we found 459 keys  total number of gets 90633079 avg 197457
+**** We found a key so far we found 460 keys  total number of gets 90700446 avg 197174
+**** We found a key so far we found 461 keys  total number of gets 90822895 avg 197012
+**** We found a key so far we found 462 keys  total number of gets 90969341 avg 196903
+**** We found a key so far we found 463 keys  total number of gets 90997291 avg 196538
+** Total gets so far 91000000 keys we found 463 avg 196544 %run 1.13625%
+**** We found a key so far we found 464 keys  total number of gets 91143580 avg 196430
+**** We found a key so far we found 465 keys  total number of gets 91452888 avg 196672
+**** We found a key so far we found 466 keys  total number of gets 91587188 avg 196539
+**** We found a key so far we found 467 keys  total number of gets 91811396 avg 196598
+**** We found a key so far we found 468 keys  total number of gets 91879462 avg 196323
+** Total gets so far 92000000 keys we found 468 avg 196581 %run 50.5761%
+**** We found a key so far we found 469 keys  total number of gets 92386556 avg 196986
+**** We found a key so far we found 470 keys  total number of gets 92925930 avg 197714
+** Total gets so far 93000000 keys we found 470 avg 197872 %run 31.0786%
+**** We found a key so far we found 471 keys  total number of gets 93008270 avg 197469
+**** We found a key so far we found 472 keys  total number of gets 93233693 avg 197529
+**** We found a key so far we found 473 keys  total number of gets 93574003 avg 197830
+**** We found a key so far we found 474 keys  total number of gets 93680192 avg 197637
+**** We found a key so far we found 475 keys  total number of gets 93745391 avg 197358
+**** We found a key so far we found 476 keys  total number of gets 93956788 avg 197388
+** Total gets so far 94000000 keys we found 476 avg 197478 %run 18.1309%
+**** We found a key so far we found 477 keys  total number of gets 94053113 avg 197176
+**** We found a key so far we found 478 keys  total number of gets 94173488 avg 197015
+**** We found a key so far we found 479 keys  total number of gets 94935110 avg 198194
+** Total gets so far 95000000 keys we found 479 avg 198329 %run 27.2268%
+**** We found a key so far we found 480 keys  total number of gets 95072514 avg 198067
+**** We found a key so far we found 481 keys  total number of gets 95169953 avg 197858
+**** We found a key so far we found 482 keys  total number of gets 95342815 avg 197806
+**** We found a key so far we found 483 keys  total number of gets 95979818 avg 198715
+** Total gets so far 96000000 keys we found 483 avg 198757 %run 8.46774%
+**** We found a key so far we found 484 keys  total number of gets 96282358 avg 198930
+**** We found a key so far we found 485 keys  total number of gets 96543790 avg 199059
+**** We found a key so far we found 486 keys  total number of gets 96810708 avg 199198
+**** We found a key so far we found 487 keys  total number of gets 96973141 avg 199123
+** Total gets so far 97000000 keys we found 487 avg 199178 %run 11.2693%
+**** We found a key so far we found 488 keys  total number of gets 97636047 avg 200073
+**** We found a key so far we found 489 keys  total number of gets 97824665 avg 200050
+**** We found a key so far we found 490 keys  total number of gets 97860952 avg 199716
+** Total gets so far 98000000 keys we found 490 avg 200000 %run 58.3427%
+**** We found a key so far we found 491 keys  total number of gets 98030262 avg 199654
+**** We found a key so far we found 492 keys  total number of gets 98208514 avg 199610
+**** We found a key so far we found 493 keys  total number of gets 98933971 avg 200677
+**** We found a key so far we found 494 keys  total number of gets 98973247 avg 200350
+** Total gets so far 99000000 keys we found 494 avg 200404 %run 11.2249%
+**** We found a key so far we found 495 keys  total number of gets 99160091 avg 200323
+**** We found a key so far we found 496 keys  total number of gets 99303016 avg 200207
+**** We found a key so far we found 497 keys  total number of gets 99372792 avg 199945
+**** We found a key so far we found 498 keys  total number of gets 99647640 avg 200095
+**** We found a key so far we found 499 keys  total number of gets 99881005 avg 200162
+**** We found a key so far we found 500 keys  total number of gets 99981813 avg 199963
+** Total gets so far 100000000 keys we found 500 avg 200000 %run 7.63066%
+**** We found a key so far we found 501 keys  total number of gets 100059079 avg 199718
+**** We found a key so far we found 502 keys  total number of gets 100155920 avg 199513
+**** We found a key so far we found 503 keys  total number of gets 100243137 avg 199290
+**** We found a key so far we found 504 keys  total number of gets 100704808 avg 199811
+**** We found a key so far we found 505 keys  total number of gets 100722016 avg 199449
+**** We found a key so far we found 506 keys  total number of gets 100859301 avg 199326
+** Total gets so far 101000000 keys we found 506 avg 199604 %run 59.0354%
+**** We found a key so far we found 507 keys  total number of gets 101251178 avg 199706
+**** We found a key so far we found 508 keys  total number of gets 101411023 avg 199627
+**** We found a key so far we found 509 keys  total number of gets 101951102 avg 200296
+** Total gets so far 102000000 keys we found 509 avg 200392 %run 20.5167%
+**** We found a key so far we found 510 keys  total number of gets 102366447 avg 200718
+**** We found a key so far we found 511 keys  total number of gets 102487060 avg 200561
+**** We found a key so far we found 512 keys  total number of gets 102647608 avg 200483
+**** We found a key so far we found 513 keys  total number of gets 102945986 avg 200674
+** Total gets so far 103000000 keys we found 513 avg 200779 %run 22.6633%
+**** We found a key so far we found 514 keys  total number of gets 103075152 avg 200535
+**** We found a key so far we found 515 keys  total number of gets 103094104 avg 200182
+**** We found a key so far we found 516 keys  total number of gets 103469378 avg 200522
+**** We found a key so far we found 517 keys  total number of gets 103651455 avg 200486
+**** We found a key so far we found 518 keys  total number of gets 103968665 avg 200711
+** Total gets so far 104000000 keys we found 518 avg 200772 %run 13.1474%
+**** We found a key so far we found 519 keys  total number of gets 104168685 avg 200710
+**** We found a key so far we found 520 keys  total number of gets 104202787 avg 200389
+**** We found a key so far we found 521 keys  total number of gets 104336054 avg 200261
+**** We found a key so far we found 522 keys  total number of gets 104857059 avg 200875
+**** We found a key so far we found 523 keys  total number of gets 104987140 avg 200740
+** Total gets so far 105000000 keys we found 523 avg 200764 %run 5.39551%
+**** We found a key so far we found 524 keys  total number of gets 105026131 avg 200431
+**** We found a key so far we found 525 keys  total number of gets 105261435 avg 200497
+**** We found a key so far we found 526 keys  total number of gets 105496826 avg 200564
+**** We found a key so far we found 527 keys  total number of gets 105972793 avg 201086
+** Total gets so far 106000000 keys we found 527 avg 201138 %run 11.4154%
+**** We found a key so far we found 528 keys  total number of gets 106149007 avg 201039
+**** We found a key so far we found 529 keys  total number of gets 106490012 avg 201304
+**** We found a key so far we found 530 keys  total number of gets 106641014 avg 201209
+** Total gets so far 107000000 keys we found 530 avg 201886 %run 50.6264%
+**** We found a key so far we found 531 keys  total number of gets 107224052 avg 201928
+**** We found a key so far we found 532 keys  total number of gets 107439335 avg 201953
+**** We found a key so far we found 533 keys  total number of gets 107489186 avg 201668
+**** We found a key so far we found 534 keys  total number of gets 107674548 avg 201637
+** Total gets so far 108000000 keys we found 534 avg 202247 %run 36.5559%
+**** We found a key so far we found 535 keys  total number of gets 108068925 avg 201997
+**** We found a key so far we found 536 keys  total number of gets 108222341 avg 201907
+**** We found a key so far we found 537 keys  total number of gets 108310081 avg 201694
+**** We found a key so far we found 538 keys  total number of gets 108521162 avg 201712
+**** We found a key so far we found 539 keys  total number of gets 108685883 avg 201643
+** Total gets so far 109000000 keys we found 539 avg 202226 %run 31.7999%
+**** We found a key so far we found 540 keys  total number of gets 109563317 avg 202895
+** Total gets so far 110000000 keys we found 540 avg 203703 %run 83.2273%
+**** We found a key so far we found 541 keys  total number of gets 110000510 avg 203328
+**** We found a key so far we found 542 keys  total number of gets 110102671 avg 203141
+**** We found a key so far we found 543 keys  total number of gets 110103152 avg 202768
+**** We found a key so far we found 544 keys  total number of gets 110275509 avg 202712
+**** We found a key so far we found 545 keys  total number of gets 110344254 avg 202466
+**** We found a key so far we found 546 keys  total number of gets 110787244 avg 202907
+** Total gets so far 111000000 keys we found 546 avg 203296 %run 89.2698%
+**** We found a key so far we found 547 keys  total number of gets 111208007 avg 203305
+**** We found a key so far we found 548 keys  total number of gets 111885707 avg 204170
+** Total gets so far 112000000 keys we found 548 avg 204379 %run 47.9558%
+**** We found a key so far we found 549 keys  total number of gets 112050487 avg 204099
+**** We found a key so far we found 550 keys  total number of gets 112442239 avg 204440
+**** We found a key so far we found 551 keys  total number of gets 112468642 avg 204117
+**** We found a key so far we found 552 keys  total number of gets 112842096 avg 204424
+** Total gets so far 113000000 keys we found 552 avg 204710 %run 66.2545%
+**** We found a key so far we found 553 keys  total number of gets 113113754 avg 204545
+**** We found a key so far we found 554 keys  total number of gets 113342245 avg 204588
+**** We found a key so far we found 555 keys  total number of gets 113852764 avg 205140
+** Total gets so far 114000000 keys we found 555 avg 205405 %run 61.7783%
+**** We found a key so far we found 556 keys  total number of gets 114040570 avg 205108
+**** We found a key so far we found 557 keys  total number of gets 114095981 avg 204840
+**** We found a key so far we found 558 keys  total number of gets 114182905 avg 204628
+**** We found a key so far we found 559 keys  total number of gets 114369261 avg 204596
+**** We found a key so far we found 560 keys  total number of gets 114409261 avg 204302
+**** We found a key so far we found 561 keys  total number of gets 114810790 avg 204653
+**** We found a key so far we found 562 keys  total number of gets 114999661 avg 204625
+** Total gets so far 115000000 keys we found 562 avg 204626 %run 0.141821%
+**** We found a key so far we found 563 keys  total number of gets 115269012 avg 204740
+**** We found a key so far we found 564 keys  total number of gets 115409482 avg 204626
+**** We found a key so far we found 565 keys  total number of gets 115471851 avg 204374
+**** We found a key so far we found 566 keys  total number of gets 115539854 avg 204134
+**** We found a key so far we found 567 keys  total number of gets 115589765 avg 203862
+**** We found a key so far we found 568 keys  total number of gets 115640808 avg 203592
+** Total gets so far 116000000 keys we found 568 avg 204225 %run 50.7129%
+**** We found a key so far we found 569 keys  total number of gets 116115233 avg 204068
+**** We found a key so far we found 570 keys  total number of gets 116590299 avg 204544
+**** We found a key so far we found 571 keys  total number of gets 116825337 avg 204597
+** Total gets so far 117000000 keys we found 571 avg 204903 %run 73.2864%
+**** We found a key so far we found 572 keys  total number of gets 117673928 avg 205723
+**** We found a key so far we found 573 keys  total number of gets 117727289 avg 205457
+**** We found a key so far we found 574 keys  total number of gets 117868411 avg 205345
+** Total gets so far 118000000 keys we found 574 avg 205574 %run 55.213%
+**** We found a key so far we found 575 keys  total number of gets 118224127 avg 205607
+**** We found a key so far we found 576 keys  total number of gets 118228137 avg 205257
+**** We found a key so far we found 577 keys  total number of gets 118466359 avg 205314
+**** We found a key so far we found 578 keys  total number of gets 118531231 avg 205071
+**** We found a key so far we found 579 keys  total number of gets 118654366 avg 204929
+** Total gets so far 119000000 keys we found 579 avg 205526 %run 45.0241%
+**** We found a key so far we found 580 keys  total number of gets 119040227 avg 205241
+**** We found a key so far we found 581 keys  total number of gets 119153959 avg 205084
+**** We found a key so far we found 582 keys  total number of gets 119267684 avg 204927
+**** We found a key so far we found 583 keys  total number of gets 119417396 avg 204832
+**** We found a key so far we found 584 keys  total number of gets 119863104 avg 205245
+**** We found a key so far we found 585 keys  total number of gets 119952930 avg 205047
+** Total gets so far 120000000 keys we found 585 avg 205128 %run 19.7497%
+**** We found a key so far we found 586 keys  total number of gets 120132296 avg 205003
+**** We found a key so far we found 587 keys  total number of gets 120498518 avg 205278
+**** We found a key so far we found 588 keys  total number of gets 120667759 avg 205217
+**** We found a key so far we found 589 keys  total number of gets 120722445 avg 204961
+** Total gets so far 121000000 keys we found 589 avg 205432 %run 16.4588%
+**** We found a key so far we found 590 keys  total number of gets 121398655 avg 205760
+**** We found a key so far we found 591 keys  total number of gets 121503693 avg 205590
+**** We found a key so far we found 592 keys  total number of gets 121681982 avg 205543
+**** We found a key so far we found 593 keys  total number of gets 121826538 avg 205441
+**** We found a key so far we found 594 keys  total number of gets 121910773 avg 205236
+** Total gets so far 122000000 keys we found 594 avg 205387 %run 37.4383%
+**** We found a key so far we found 595 keys  total number of gets 122186749 avg 205355
+**** We found a key so far we found 596 keys  total number of gets 122292514 avg 205188
+**** We found a key so far we found 597 keys  total number of gets 122501394 avg 205194
+**** We found a key so far we found 598 keys  total number of gets 122972273 avg 205639
+** Total gets so far 123000000 keys we found 598 avg 205685 %run 11.6335%
+**** We found a key so far we found 599 keys  total number of gets 123178274 avg 205639
+**** We found a key so far we found 600 keys  total number of gets 123207590 avg 205345
+**** We found a key so far we found 601 keys  total number of gets 123220803 avg 205026
+**** We found a key so far we found 602 keys  total number of gets 123443620 avg 205055
+**** We found a key so far we found 603 keys  total number of gets 123531281 avg 204861
+**** We found a key so far we found 604 keys  total number of gets 123702605 avg 204805
+**** We found a key so far we found 605 keys  total number of gets 123935492 avg 204852
+** Total gets so far 124000000 keys we found 605 avg 204958 %run 27.0665%
+**** We found a key so far we found 606 keys  total number of gets 124242729 avg 205021
+**** We found a key so far we found 607 keys  total number of gets 124405500 avg 204951
+**** We found a key so far we found 608 keys  total number of gets 124631642 avg 204986
+**** We found a key so far we found 609 keys  total number of gets 124758178 avg 204857
+** Total gets so far 125000000 keys we found 609 avg 205254 %run 1.46563%
+**** We found a key so far we found 610 keys  total number of gets 125179403 avg 205212
+**** We found a key so far we found 611 keys  total number of gets 125288756 avg 205055
+**** We found a key so far we found 612 keys  total number of gets 125974633 avg 205840
+** Total gets so far 126000000 keys we found 612 avg 205882 %run 10.6433%
+**** We found a key so far we found 613 keys  total number of gets 126125652 avg 205751
+**** We found a key so far we found 614 keys  total number of gets 126525626 avg 206067
+**** We found a key so far we found 615 keys  total number of gets 126833005 avg 206232
+** Total gets so far 127000000 keys we found 615 avg 206504 %run 70.069%
+**** We found a key so far we found 616 keys  total number of gets 127676014 avg 207266
+**** We found a key so far we found 617 keys  total number of gets 127853168 avg 207217
+** Total gets so far 128000000 keys we found 617 avg 207455 %run 61.6088%
+**** We found a key so far we found 618 keys  total number of gets 128326206 avg 207647
+**** We found a key so far we found 619 keys  total number of gets 128477694 avg 207556
+**** We found a key so far we found 620 keys  total number of gets 128942596 avg 207971
+** Total gets so far 129000000 keys we found 620 avg 208064 %run 24.0857%
+**** We found a key so far we found 621 keys  total number of gets 129107128 avg 207901
+**** We found a key so far we found 622 keys  total number of gets 129277531 avg 207841
+**** We found a key so far we found 623 keys  total number of gets 129592777 avg 208014
+**** We found a key so far we found 624 keys  total number of gets 129761515 avg 207951
+**** We found a key so far we found 625 keys  total number of gets 129779756 avg 207647
+**** We found a key so far we found 626 keys  total number of gets 129967167 avg 207615
+** Total gets so far 130000000 keys we found 626 avg 207667 %run 13.776%
+**** We found a key so far we found 627 keys  total number of gets 130096497 avg 207490
+**** We found a key so far we found 628 keys  total number of gets 130226789 avg 207367
+**** We found a key so far we found 629 keys  total number of gets 130320951 avg 207187
+**** We found a key so far we found 630 keys  total number of gets 130687279 avg 207440
+**** We found a key so far we found 631 keys  total number of gets 130884606 avg 207424
+** Total gets so far 131000000 keys we found 631 avg 207606 %run 48.4177%
+**** We found a key so far we found 632 keys  total number of gets 131238474 avg 207655
+**** We found a key so far we found 633 keys  total number of gets 131880234 avg 208341
+**** We found a key so far we found 634 keys  total number of gets 131909286 avg 208058
+** Total gets so far 132000000 keys we found 634 avg 208201 %run 38.0623%
+**** We found a key so far we found 635 keys  total number of gets 132101298 avg 208033
+**** We found a key so far we found 636 keys  total number of gets 132497701 avg 208329
+**** We found a key so far we found 637 keys  total number of gets 132583730 avg 208137
+** Total gets so far 133000000 keys we found 637 avg 208791 %run 74.6622%
+**** We found a key so far we found 638 keys  total number of gets 133113037 avg 208641
+**** We found a key so far we found 639 keys  total number of gets 133422357 avg 208798
+** Total gets so far 134000000 keys we found 639 avg 209702 %run 42.3727%
+**** We found a key so far we found 640 keys  total number of gets 134079831 avg 209499
+**** We found a key so far we found 641 keys  total number of gets 134203102 avg 209365
+**** We found a key so far we found 642 keys  total number of gets 134411769 avg 209364
+**** We found a key so far we found 643 keys  total number of gets 134649624 avg 209408
+**** We found a key so far we found 644 keys  total number of gets 134874835 avg 209432
+** Total gets so far 135000000 keys we found 644 avg 209627 %run 52.5175%
+**** We found a key so far we found 645 keys  total number of gets 135006184 avg 209311
+**** We found a key so far we found 646 keys  total number of gets 135022884 avg 209013
+**** We found a key so far we found 647 keys  total number of gets 135612607 avg 209602
+**** We found a key so far we found 648 keys  total number of gets 135653748 avg 209342
+**** We found a key so far we found 649 keys  total number of gets 135664406 avg 209036
+**** We found a key so far we found 650 keys  total number of gets 135990835 avg 209216
+** Total gets so far 136000000 keys we found 650 avg 209230 %run 3.84512%
+**** We found a key so far we found 651 keys  total number of gets 136096727 avg 209057
+**** We found a key so far we found 652 keys  total number of gets 136196373 avg 208890
+**** We found a key so far we found 653 keys  total number of gets 136201682 avg 208578
+**** We found a key so far we found 654 keys  total number of gets 136422332 avg 208596
+**** We found a key so far we found 655 keys  total number of gets 136617948 avg 208577
+**** We found a key so far we found 656 keys  total number of gets 136762198 avg 208478
+**** We found a key so far we found 657 keys  total number of gets 136971980 avg 208480
+** Total gets so far 137000000 keys we found 657 avg 208523 %run 11.7565%
+**** We found a key so far we found 658 keys  total number of gets 137051658 avg 208285
+**** We found a key so far we found 659 keys  total number of gets 137271125 avg 208302
+**** We found a key so far we found 660 keys  total number of gets 137296258 avg 208024
+**** We found a key so far we found 661 keys  total number of gets 137410741 avg 207883
+**** We found a key so far we found 662 keys  total number of gets 137700396 avg 208006
+**** We found a key so far we found 663 keys  total number of gets 137835593 avg 207896
+**** We found a key so far we found 664 keys  total number of gets 137960271 avg 207771
+** Total gets so far 138000000 keys we found 664 avg 207831 %run 16.6695%
+**** We found a key so far we found 665 keys  total number of gets 138080547 avg 207639
+**** We found a key so far we found 666 keys  total number of gets 138123296 avg 207392
+**** We found a key so far we found 667 keys  total number of gets 138255668 avg 207279
+**** We found a key so far we found 668 keys  total number of gets 138806562 avg 207794
+** Total gets so far 139000000 keys we found 668 avg 208083 %run 81.1642%
+**** We found a key so far we found 669 keys  total number of gets 139011473 avg 207789
+**** We found a key so far we found 670 keys  total number of gets 139224616 avg 207797
+**** We found a key so far we found 671 keys  total number of gets 139295133 avg 207593
+**** We found a key so far we found 672 keys  total number of gets 139342673 avg 207355
+**** We found a key so far we found 673 keys  total number of gets 139374645 avg 207094
+**** We found a key so far we found 674 keys  total number of gets 139545515 avg 207040
+** Total gets so far 140000000 keys we found 674 avg 207715 %run 90.6969%
+**** We found a key so far we found 675 keys  total number of gets 140398228 avg 207997
+**** We found a key so far we found 676 keys  total number of gets 140589100 avg 207972
+**** We found a key so far we found 677 keys  total number of gets 140658051 avg 207766
+**** We found a key so far we found 678 keys  total number of gets 140783643 avg 207645
+** Total gets so far 141000000 keys we found 678 avg 207964 %run 90.7808%
+**** We found a key so far we found 679 keys  total number of gets 141002155 avg 207661
+**** We found a key so far we found 680 keys  total number of gets 141011200 avg 207369
+**** We found a key so far we found 681 keys  total number of gets 141245951 avg 207409
+**** We found a key so far we found 682 keys  total number of gets 141393345 avg 207321
+**** We found a key so far we found 683 keys  total number of gets 141581908 avg 207294
+**** We found a key so far we found 684 keys  total number of gets 141695256 avg 207156
+** Total gets so far 142000000 keys we found 684 avg 207602 %run 27.8671%
+**** We found a key so far we found 685 keys  total number of gets 142041229 avg 207359
+**** We found a key so far we found 686 keys  total number of gets 142050919 avg 207071
+**** We found a key so far we found 687 keys  total number of gets 142155390 avg 206921
+**** We found a key so far we found 688 keys  total number of gets 142261008 avg 206774
+**** We found a key so far we found 689 keys  total number of gets 142394784 avg 206668
+**** We found a key so far we found 690 keys  total number of gets 142624364 avg 206701
+**** We found a key so far we found 691 keys  total number of gets 142697615 avg 206508
+**** We found a key so far we found 692 keys  total number of gets 142721527 avg 206244
+**** We found a key so far we found 693 keys  total number of gets 142836098 avg 206112
+**** We found a key so far we found 694 keys  total number of gets 142974569 avg 206015
+**** We found a key so far we found 695 keys  total number of gets 142983664 avg 205731
+** Total gets so far 143000000 keys we found 695 avg 205755 %run 6.854%
+**** We found a key so far we found 696 keys  total number of gets 143034344 avg 205509
+**** We found a key so far we found 697 keys  total number of gets 143100916 avg 205309
+**** We found a key so far we found 698 keys  total number of gets 143287931 avg 205283
+**** We found a key so far we found 699 keys  total number of gets 143851970 avg 205796
+** Total gets so far 144000000 keys we found 699 avg 206008 %run 62.1115%
+**** We found a key so far we found 700 keys  total number of gets 144045597 avg 205779
+**** We found a key so far we found 701 keys  total number of gets 144208864 avg 205718
+**** We found a key so far we found 702 keys  total number of gets 144265561 avg 205506
+**** We found a key so far we found 703 keys  total number of gets 144436836 avg 205457
+**** We found a key so far we found 704 keys  total number of gets 144611621 avg 205414
+**** We found a key so far we found 705 keys  total number of gets 144806386 avg 205399
+** Total gets so far 145000000 keys we found 705 avg 205673 %run 81.238%
+**** We found a key so far we found 706 keys  total number of gets 145039121 avg 205437
+**** We found a key so far we found 707 keys  total number of gets 145074239 avg 205196
+**** We found a key so far we found 708 keys  total number of gets 145162854 avg 205032
+**** We found a key so far we found 709 keys  total number of gets 145459137 avg 205160
+**** We found a key so far we found 710 keys  total number of gets 145476573 avg 204896
+**** We found a key so far we found 711 keys  total number of gets 145900800 avg 205205
+** Total gets so far 146000000 keys we found 711 avg 205344 %run 41.6229%
+**** We found a key so far we found 712 keys  total number of gets 146317664 avg 205502
+**** We found a key so far we found 713 keys  total number of gets 146428339 avg 205369
+**** We found a key so far we found 714 keys  total number of gets 146652711 avg 205395
+**** We found a key so far we found 715 keys  total number of gets 146722215 avg 205205
+**** We found a key so far we found 716 keys  total number of gets 146908673 avg 205179
+**** We found a key so far we found 717 keys  total number of gets 146965584 avg 204972
+** Total gets so far 147000000 keys we found 717 avg 205020 %run 14.4402%
+**** We found a key so far we found 718 keys  total number of gets 147466449 avg 205385
+**** We found a key so far we found 719 keys  total number of gets 147671371 avg 205384
+**** We found a key so far we found 720 keys  total number of gets 147673211 avg 205101
+**** We found a key so far we found 721 keys  total number of gets 147723114 avg 204886
+** Total gets so far 148000000 keys we found 721 avg 205270 %run 16.1781%
+**** We found a key so far we found 722 keys  total number of gets 148125369 avg 205159
+**** We found a key so far we found 723 keys  total number of gets 148226889 avg 205016
+**** We found a key so far we found 724 keys  total number of gets 148405783 avg 204980
+**** We found a key so far we found 725 keys  total number of gets 148431552 avg 204733
+**** We found a key so far we found 726 keys  total number of gets 148843311 avg 205018
+** Total gets so far 149000000 keys we found 726 avg 205234 %run 65.7447%
+**** We found a key so far we found 727 keys  total number of gets 149067525 avg 205044
+**** We found a key so far we found 728 keys  total number of gets 149087909 avg 204791
+**** We found a key so far we found 729 keys  total number of gets 149258967 avg 204744
+**** We found a key so far we found 730 keys  total number of gets 149356314 avg 204597
+**** We found a key so far we found 731 keys  total number of gets 149357611 avg 204319
+**** We found a key so far we found 732 keys  total number of gets 149545833 avg 204297
+**** We found a key so far we found 733 keys  total number of gets 149600214 avg 204093
+**** We found a key so far we found 734 keys  total number of gets 149746153 avg 204013
+**** We found a key so far we found 735 keys  total number of gets 149909507 avg 203958
+** Total gets so far 150000000 keys we found 735 avg 204081 %run 37.9695%
+**** We found a key so far we found 736 keys  total number of gets 150128015 avg 203978
+**** We found a key so far we found 737 keys  total number of gets 150218314 avg 203824
+**** We found a key so far we found 738 keys  total number of gets 150239255 avg 203576
+**** We found a key so far we found 739 keys  total number of gets 150264608 avg 203335
+**** We found a key so far we found 740 keys  total number of gets 150334560 avg 203154
+**** We found a key so far we found 741 keys  total number of gets 150428159 avg 203006
+**** We found a key so far we found 742 keys  total number of gets 150655143 avg 203039
+**** We found a key so far we found 743 keys  total number of gets 150740908 avg 202881
+** Total gets so far 151000000 keys we found 743 avg 203230 %run 8.71194%
+**** We found a key so far we found 744 keys  total number of gets 151143652 avg 203150
+**** We found a key so far we found 745 keys  total number of gets 151196080 avg 202947
+**** We found a key so far we found 746 keys  total number of gets 151242167 avg 202737
+**** We found a key so far we found 747 keys  total number of gets 151403162 avg 202681
+**** We found a key so far we found 748 keys  total number of gets 151428176 avg 202444
+**** We found a key so far we found 749 keys  total number of gets 151645838 avg 202464
+** Total gets so far 152000000 keys we found 749 avg 202937 %run 48.6023%
+**** We found a key so far we found 750 keys  total number of gets 152007464 avg 202676
+**** We found a key so far we found 751 keys  total number of gets 152094433 avg 202522
+**** We found a key so far we found 752 keys  total number of gets 152134747 avg 202306
+**** We found a key so far we found 753 keys  total number of gets 152142186 avg 202048
+**** We found a key so far we found 754 keys  total number of gets 152307847 avg 201999
+**** We found a key so far we found 755 keys  total number of gets 152463419 avg 201938
+**** We found a key so far we found 756 keys  total number of gets 152606907 avg 201860
+** Total gets so far 153000000 keys we found 756 avg 202380 %run 64.9374%
+**** We found a key so far we found 757 keys  total number of gets 153506373 avg 202782
+**** We found a key so far we found 758 keys  total number of gets 153714902 avg 202790
+**** We found a key so far we found 759 keys  total number of gets 153752159 avg 202572
+** Total gets so far 154000000 keys we found 759 avg 202898 %run 3.99114%
+**** We found a key so far we found 760 keys  total number of gets 154017066 avg 202654
+**** We found a key so far we found 761 keys  total number of gets 154105648 avg 202504
+**** We found a key so far we found 762 keys  total number of gets 154212076 avg 202378
+**** We found a key so far we found 763 keys  total number of gets 154224416 avg 202128
+**** We found a key so far we found 764 keys  total number of gets 154368148 avg 202052
+**** We found a key so far we found 765 keys  total number of gets 154417769 avg 201853
+**** We found a key so far we found 766 keys  total number of gets 154679934 avg 201932
+**** We found a key so far we found 767 keys  total number of gets 154776865 avg 201795
+**** We found a key so far we found 768 keys  total number of gets 154916375 avg 201714
+** Total gets so far 155000000 keys we found 768 avg 201822 %run 35.0878%
+**** We found a key so far we found 769 keys  total number of gets 155087070 avg 201673
+**** We found a key so far we found 770 keys  total number of gets 155167167 avg 201515
+**** We found a key so far we found 771 keys  total number of gets 155620224 avg 201842
+**** We found a key so far we found 772 keys  total number of gets 155845298 avg 201872
+**** We found a key so far we found 773 keys  total number of gets 155918586 avg 201705
+**** We found a key so far we found 774 keys  total number of gets 155920801 avg 201448
+** Total gets so far 156000000 keys we found 774 avg 201550 %run 33.2307%
+**** We found a key so far we found 775 keys  total number of gets 156081540 avg 201395
+**** We found a key so far we found 776 keys  total number of gets 156125244 avg 201192
+**** We found a key so far we found 777 keys  total number of gets 156148617 avg 200963
+**** We found a key so far we found 778 keys  total number of gets 156278583 avg 200872
+**** We found a key so far we found 779 keys  total number of gets 156510476 avg 200912
+**** We found a key so far we found 780 keys  total number of gets 156892755 avg 201144
+** Total gets so far 157000000 keys we found 780 avg 201282 %run 44.9985%
+**** We found a key so far we found 781 keys  total number of gets 157319325 avg 201433
+**** We found a key so far we found 782 keys  total number of gets 157419916 avg 201304
+**** We found a key so far we found 783 keys  total number of gets 157589696 avg 201263
+**** We found a key so far we found 784 keys  total number of gets 157909527 avg 201415
+** Total gets so far 158000000 keys we found 784 avg 201530 %run 37.9611%
+**** We found a key so far we found 785 keys  total number of gets 158016516 avg 201294
+**** We found a key so far we found 786 keys  total number of gets 158218530 avg 201295
+**** We found a key so far we found 787 keys  total number of gets 158551199 avg 201462
+**** We found a key so far we found 788 keys  total number of gets 158655561 avg 201339
+**** We found a key so far we found 789 keys  total number of gets 158889211 avg 201380
+** Total gets so far 159000000 keys we found 789 avg 201520 %run 46.4855%
+**** We found a key so far we found 790 keys  total number of gets 159290252 avg 201633
+**** We found a key so far we found 791 keys  total number of gets 159304297 avg 201396
+**** We found a key so far we found 792 keys  total number of gets 159779557 avg 201741
+**** We found a key so far we found 793 keys  total number of gets 159940326 avg 201690
+** Total gets so far 160000000 keys we found 793 avg 201765 %run 25.0382%
+**** We found a key so far we found 794 keys  total number of gets 160321489 avg 201916
+**** We found a key so far we found 795 keys  total number of gets 160326672 avg 201668
+**** We found a key so far we found 796 keys  total number of gets 160652173 avg 201824
+**** We found a key so far we found 797 keys  total number of gets 160656829 avg 201576
+**** We found a key so far we found 798 keys  total number of gets 160786520 avg 201486
+**** We found a key so far we found 799 keys  total number of gets 160897430 avg 201373
+** Total gets so far 161000000 keys we found 799 avg 201501 %run 43.0369%
+**** We found a key so far we found 800 keys  total number of gets 161059753 avg 201324
+**** We found a key so far we found 801 keys  total number of gets 161061779 avg 201075
+**** We found a key so far we found 802 keys  total number of gets 161224327 avg 201027
+**** We found a key so far we found 803 keys  total number of gets 161390181 avg 200984
+**** We found a key so far we found 804 keys  total number of gets 161591611 avg 200984
+**** We found a key so far we found 805 keys  total number of gets 161695882 avg 200864
+** Total gets so far 162000000 keys we found 805 avg 201242 %run 27.6044%
+**** We found a key so far we found 806 keys  total number of gets 162179299 avg 201215
+**** We found a key so far we found 807 keys  total number of gets 162673991 avg 201578
+**** We found a key so far we found 808 keys  total number of gets 162887548 avg 201593
+** Total gets so far 163000000 keys we found 808 avg 201732 %run 47.1833%
+**** We found a key so far we found 809 keys  total number of gets 163121300 avg 201633
+**** We found a key so far we found 810 keys  total number of gets 163418255 avg 201750
+**** We found a key so far we found 811 keys  total number of gets 163727057 avg 201882
+** Total gets so far 164000000 keys we found 811 avg 202219 %run 14.5237%
+**** We found a key so far we found 812 keys  total number of gets 164028405 avg 202005
+**** We found a key so far we found 813 keys  total number of gets 164465458 avg 202294
+**** We found a key so far we found 814 keys  total number of gets 164657945 avg 202282
+**** We found a key so far we found 815 keys  total number of gets 164853158 avg 202273
+**** We found a key so far we found 816 keys  total number of gets 164862265 avg 202037
+**** We found a key so far we found 817 keys  total number of gets 164988577 avg 201944
+** Total gets so far 165000000 keys we found 817 avg 201958 %run 4.79255%
+**** We found a key so far we found 818 keys  total number of gets 165126560 avg 201866
+**** We found a key so far we found 819 keys  total number of gets 165193849 avg 201701
+**** We found a key so far we found 820 keys  total number of gets 165699944 avg 202073
+**** We found a key so far we found 821 keys  total number of gets 165857149 avg 202018
+**** We found a key so far we found 822 keys  total number of gets 165869989 avg 201788
+** Total gets so far 166000000 keys we found 822 avg 201946 %run 54.5509%
+**** We found a key so far we found 823 keys  total number of gets 166210107 avg 201956
+**** We found a key so far we found 824 keys  total number of gets 166492300 avg 202053
+**** We found a key so far we found 825 keys  total number of gets 166751569 avg 202123
+**** We found a key so far we found 826 keys  total number of gets 166821142 avg 201962
+**** We found a key so far we found 827 keys  total number of gets 166847537 avg 201750
+** Total gets so far 167000000 keys we found 827 avg 201934 %run 63.9715%
+**** We found a key so far we found 828 keys  total number of gets 167440989 avg 202223
+**** We found a key so far we found 829 keys  total number of gets 167826327 avg 202444
+** Total gets so far 168000000 keys we found 829 avg 202653 %run 72.871%
+**** We found a key so far we found 830 keys  total number of gets 168056248 avg 202477
+**** We found a key so far we found 831 keys  total number of gets 168373037 avg 202614
+**** We found a key so far we found 832 keys  total number of gets 168529310 avg 202559
+**** We found a key so far we found 833 keys  total number of gets 168792274 avg 202631
+**** We found a key so far we found 834 keys  total number of gets 168945144 avg 202572
+** Total gets so far 169000000 keys we found 834 avg 202637 %run 23.0166%
+**** We found a key so far we found 835 keys  total number of gets 169177860 avg 202608
+**** We found a key so far we found 836 keys  total number of gets 169353010 avg 202575
+**** We found a key so far we found 837 keys  total number of gets 169424707 avg 202419
+**** We found a key so far we found 838 keys  total number of gets 169484522 avg 202248
+** Total gets so far 170000000 keys we found 838 avg 202863 %run 16.2889%
+**** We found a key so far we found 839 keys  total number of gets 170327099 avg 203012
+** Total gets so far 171000000 keys we found 839 avg 203814 %run 82.342%
+**** We found a key so far we found 840 keys  total number of gets 171230079 avg 203845
+**** We found a key so far we found 841 keys  total number of gets 171426773 avg 203836
+**** We found a key so far we found 842 keys  total number of gets 171577339 avg 203773
+**** We found a key so far we found 843 keys  total number of gets 171727274 avg 203709
+**** We found a key so far we found 844 keys  total number of gets 171849676 avg 203613
+**** We found a key so far we found 845 keys  total number of gets 171951362 avg 203492
+** Total gets so far 172000000 keys we found 845 avg 203550 %run 20.4076%
+**** We found a key so far we found 846 keys  total number of gets 172263610 avg 203621
+**** We found a key so far we found 847 keys  total number of gets 172426505 avg 203573
+**** We found a key so far we found 848 keys  total number of gets 172581308 avg 203515
+**** We found a key so far we found 849 keys  total number of gets 172953380 avg 203714
+** Total gets so far 173000000 keys we found 849 avg 203769 %run 19.5609%
+**** We found a key so far we found 850 keys  total number of gets 173188652 avg 203751
+**** We found a key so far we found 851 keys  total number of gets 173614708 avg 204012
+**** We found a key so far we found 852 keys  total number of gets 173681126 avg 203851
+** Total gets so far 174000000 keys we found 852 avg 204225 %run 33.7959%
+**** We found a key so far we found 853 keys  total number of gets 174150351 avg 204162
+**** We found a key so far we found 854 keys  total number of gets 174203714 avg 203985
+**** We found a key so far we found 855 keys  total number of gets 174352020 avg 203920
+**** We found a key so far we found 856 keys  total number of gets 174541461 avg 203903
+**** We found a key so far we found 857 keys  total number of gets 174667492 avg 203812
+**** We found a key so far we found 858 keys  total number of gets 174843935 avg 203780
+**** We found a key so far we found 859 keys  total number of gets 174871813 avg 203576
+** Total gets so far 175000000 keys we found 859 avg 203725 %run 53.7855%
+**** We found a key so far we found 860 keys  total number of gets 175023739 avg 203515
+**** We found a key so far we found 861 keys  total number of gets 175029639 avg 203286
+**** We found a key so far we found 862 keys  total number of gets 175127878 avg 203164
+**** We found a key so far we found 863 keys  total number of gets 175272515 avg 203096
+**** We found a key so far we found 864 keys  total number of gets 175429258 avg 203043
+**** We found a key so far we found 865 keys  total number of gets 175585924 avg 202989
+** Total gets so far 176000000 keys we found 865 avg 203468 %run 73.7417%
+**** We found a key so far we found 866 keys  total number of gets 176257995 avg 203531
+**** We found a key so far we found 867 keys  total number of gets 176408380 avg 203469
+**** We found a key so far we found 868 keys  total number of gets 176631253 avg 203492
+**** We found a key so far we found 869 keys  total number of gets 176759103 avg 203405
+** Total gets so far 177000000 keys we found 869 avg 203682 %run 1.07751%
+**** We found a key so far we found 870 keys  total number of gets 177040472 avg 203494
+**** We found a key so far we found 871 keys  total number of gets 177404568 avg 203679
+**** We found a key so far we found 872 keys  total number of gets 177523811 avg 203582
+**** We found a key so far we found 873 keys  total number of gets 177955131 avg 203843
+** Total gets so far 178000000 keys we found 873 avg 203894 %run 18.8262%
+**** We found a key so far we found 874 keys  total number of gets 178136004 avg 203816
+**** We found a key so far we found 875 keys  total number of gets 178229790 avg 203691
+**** We found a key so far we found 876 keys  total number of gets 178636690 avg 203923
+**** We found a key so far we found 877 keys  total number of gets 178811407 avg 203889
+** Total gets so far 179000000 keys we found 877 avg 204104 %run 79.1313%
+**** We found a key so far we found 878 keys  total number of gets 179245051 avg 204151
+**** We found a key so far we found 879 keys  total number of gets 179777248 avg 204524
+**** We found a key so far we found 880 keys  total number of gets 179898004 avg 204429
+** Total gets so far 180000000 keys we found 880 avg 204545 %run 42.7961%
+**** We found a key so far we found 881 keys  total number of gets 180136413 avg 204468
+**** We found a key so far we found 882 keys  total number of gets 180385942 avg 204519
+**** We found a key so far we found 883 keys  total number of gets 180520010 avg 204439
+**** We found a key so far we found 884 keys  total number of gets 180552509 avg 204244
+**** We found a key so far we found 885 keys  total number of gets 180764294 avg 204253
+** Total gets so far 181000000 keys we found 885 avg 204519 %run 98.8994%
+**** We found a key so far we found 886 keys  total number of gets 181166462 avg 204476
+**** We found a key so far we found 887 keys  total number of gets 181245055 avg 204334
+**** We found a key so far we found 888 keys  total number of gets 181801738 avg 204731
+**** We found a key so far we found 889 keys  total number of gets 181883461 avg 204593
+** Total gets so far 182000000 keys we found 889 avg 204724 %run 48.8982%
+**** We found a key so far we found 890 keys  total number of gets 182000310 avg 204494
+**** We found a key so far we found 891 keys  total number of gets 182231808 avg 204525
+**** We found a key so far we found 892 keys  total number of gets 182382588 avg 204464
+**** We found a key so far we found 893 keys  total number of gets 182582215 avg 204459
+**** We found a key so far we found 894 keys  total number of gets 182656828 avg 204314
+**** We found a key so far we found 895 keys  total number of gets 182879501 avg 204334
+** Total gets so far 183000000 keys we found 895 avg 204469 %run 50.5597%
+**** We found a key so far we found 896 keys  total number of gets 183224391 avg 204491
+**** We found a key so far we found 897 keys  total number of gets 183500961 avg 204571
+** Total gets so far 184000000 keys we found 897 avg 205128 %run 9.39126%
+**** We found a key so far we found 898 keys  total number of gets 184101598 avg 205012
+**** We found a key so far we found 899 keys  total number of gets 184129881 avg 204816
+**** We found a key so far we found 900 keys  total number of gets 184193731 avg 204659
+**** We found a key so far we found 901 keys  total number of gets 184297916 avg 204548
+**** We found a key so far we found 902 keys  total number of gets 184636454 avg 204696
+** Total gets so far 185000000 keys we found 902 avg 205099 %run 52.5398%
+**** We found a key so far we found 903 keys  total number of gets 185265293 avg 205166
+**** We found a key so far we found 904 keys  total number of gets 185270458 avg 204945
+**** We found a key so far we found 905 keys  total number of gets 185506312 avg 204979
+**** We found a key so far we found 906 keys  total number of gets 185562440 avg 204815
+**** We found a key so far we found 907 keys  total number of gets 185635847 avg 204670
+**** We found a key so far we found 908 keys  total number of gets 185708274 avg 204524
+**** We found a key so far we found 909 keys  total number of gets 185858955 avg 204465
+** Total gets so far 186000000 keys we found 909 avg 204620 %run 59.1806%
+**** We found a key so far we found 910 keys  total number of gets 186019801 avg 204417
+**** We found a key so far we found 911 keys  total number of gets 186229916 avg 204423
+**** We found a key so far we found 912 keys  total number of gets 186368164 avg 204351
+**** We found a key so far we found 913 keys  total number of gets 186440321 avg 204206
+**** We found a key so far we found 914 keys  total number of gets 186503247 avg 204051
+**** We found a key so far we found 915 keys  total number of gets 186733390 avg 204080
+**** We found a key so far we found 916 keys  total number of gets 186807122 avg 203937
+** Total gets so far 187000000 keys we found 916 avg 204148 %run 80.9292%
+**** We found a key so far we found 917 keys  total number of gets 187292261 avg 204244
+**** We found a key so far we found 918 keys  total number of gets 187461682 avg 204206
+**** We found a key so far we found 919 keys  total number of gets 187598075 avg 204132
+**** We found a key so far we found 920 keys  total number of gets 187663628 avg 203982
+**** We found a key so far we found 921 keys  total number of gets 187794918 avg 203903
+**** We found a key so far we found 922 keys  total number of gets 187999822 avg 203904
+** Total gets so far 188000000 keys we found 922 avg 203904 %run 0.0742674%
+**** We found a key so far we found 923 keys  total number of gets 188165546 avg 203862
+**** We found a key so far we found 924 keys  total number of gets 188434700 avg 203933
+**** We found a key so far we found 925 keys  total number of gets 188609792 avg 203902
+**** We found a key so far we found 926 keys  total number of gets 188945936 avg 204045
+** Total gets so far 189000000 keys we found 926 avg 204103 %run 22.6843%
+**** We found a key so far we found 927 keys  total number of gets 189230148 avg 204131
+**** We found a key so far we found 928 keys  total number of gets 189446756 avg 204145
+**** We found a key so far we found 929 keys  total number of gets 189638454 avg 204131
+**** We found a key so far we found 930 keys  total number of gets 189738994 avg 204020
+** Total gets so far 190000000 keys we found 930 avg 204301 %run 9.51504%
+**** We found a key so far we found 931 keys  total number of gets 190051189 avg 204136
+**** We found a key so far we found 932 keys  total number of gets 190384215 avg 204274
+**** We found a key so far we found 933 keys  total number of gets 190741265 avg 204438
+**** We found a key so far we found 934 keys  total number of gets 190771389 avg 204252
+**** We found a key so far we found 935 keys  total number of gets 190864017 avg 204132
+**** We found a key so far we found 936 keys  total number of gets 190929203 avg 203984
+** Total gets so far 191000000 keys we found 936 avg 204059 %run 29.7053%
+**** We found a key so far we found 937 keys  total number of gets 191119471 avg 203969
+**** We found a key so far we found 938 keys  total number of gets 191175178 avg 203811
+**** We found a key so far we found 939 keys  total number of gets 191257882 avg 203682
+**** We found a key so far we found 940 keys  total number of gets 191699910 avg 203936
+**** We found a key so far we found 941 keys  total number of gets 191888256 avg 203919
+** Total gets so far 192000000 keys we found 941 avg 204038 %run 46.8862%
+**** We found a key so far we found 942 keys  total number of gets 192067685 avg 203893
+**** We found a key so far we found 943 keys  total number of gets 192148612 avg 203763
+**** We found a key so far we found 944 keys  total number of gets 192155597 avg 203554
+**** We found a key so far we found 945 keys  total number of gets 192337017 avg 203531
+**** We found a key so far we found 946 keys  total number of gets 192429177 avg 203413
+**** We found a key so far we found 947 keys  total number of gets 192634577 avg 203415
+**** We found a key so far we found 948 keys  total number of gets 192870672 avg 203450
+**** We found a key so far we found 949 keys  total number of gets 192893144 avg 203259
+** Total gets so far 193000000 keys we found 949 avg 203371 %run 44.8353%
+**** We found a key so far we found 950 keys  total number of gets 193067702 avg 203229
+**** We found a key so far we found 951 keys  total number of gets 193724094 avg 203705
+**** We found a key so far we found 952 keys  total number of gets 193786826 avg 203557
+** Total gets so far 194000000 keys we found 952 avg 203781 %run 89.4452%
+**** We found a key so far we found 953 keys  total number of gets 194009174 avg 203577
+**** We found a key so far we found 954 keys  total number of gets 194198063 avg 203561
+**** We found a key so far we found 955 keys  total number of gets 194556090 avg 203723
+**** We found a key so far we found 956 keys  total number of gets 194561497 avg 203516
+**** We found a key so far we found 957 keys  total number of gets 194789589 avg 203541
+**** We found a key so far we found 958 keys  total number of gets 194893908 avg 203438
+**** We found a key so far we found 959 keys  total number of gets 194990995 avg 203327
+** Total gets so far 195000000 keys we found 959 avg 203336 %run 3.77799%
+**** We found a key so far we found 960 keys  total number of gets 195177323 avg 203309
+**** We found a key so far we found 961 keys  total number of gets 195208921 avg 203131
+**** We found a key so far we found 962 keys  total number of gets 195544602 avg 203268
+** Total gets so far 196000000 keys we found 962 avg 203742 %run 91.0799%
+**** We found a key so far we found 963 keys  total number of gets 196243253 avg 203783
+**** We found a key so far we found 964 keys  total number of gets 196925993 avg 204280
+** Total gets so far 197000000 keys we found 964 avg 204356 %run 31.0522%
+**** We found a key so far we found 965 keys  total number of gets 197158711 avg 204309
+**** We found a key so far we found 966 keys  total number of gets 197363432 avg 204309
+**** We found a key so far we found 967 keys  total number of gets 197475906 avg 204215
+**** We found a key so far we found 968 keys  total number of gets 197476961 avg 204005
+**** We found a key so far we found 969 keys  total number of gets 197622506 avg 203944
+**** We found a key so far we found 970 keys  total number of gets 197722956 avg 203838
+**** We found a key so far we found 971 keys  total number of gets 197829666 avg 203738
+** Total gets so far 198000000 keys we found 971 avg 203913 %run 71.47%
+**** We found a key so far we found 972 keys  total number of gets 198014624 avg 203718
+**** We found a key so far we found 973 keys  total number of gets 198190707 avg 203690
+**** We found a key so far we found 974 keys  total number of gets 198310889 avg 203604
+**** We found a key so far we found 975 keys  total number of gets 198404091 avg 203491
+**** We found a key so far we found 976 keys  total number of gets 198500893 avg 203382
+**** We found a key so far we found 977 keys  total number of gets 198518341 avg 203191
+**** We found a key so far we found 978 keys  total number of gets 198722154 avg 203192
+**** We found a key so far we found 979 keys  total number of gets 198849471 avg 203114
+**** We found a key so far we found 980 keys  total number of gets 198859805 avg 202918
+**** We found a key so far we found 981 keys  total number of gets 198865281 avg 202716
+**** We found a key so far we found 982 keys  total number of gets 198865801 avg 202510
+** Total gets so far 199000000 keys we found 982 avg 202647 %run 56.3081%
+**** We found a key so far we found 983 keys  total number of gets 199094624 avg 202537
+**** We found a key so far we found 984 keys  total number of gets 199244125 avg 202483
+**** We found a key so far we found 985 keys  total number of gets 199332216 avg 202367
+**** We found a key so far we found 986 keys  total number of gets 199703826 avg 202539
+**** We found a key so far we found 987 keys  total number of gets 199961718 avg 202595
+** Total gets so far 200000000 keys we found 987 avg 202634 %run 16.0623%
+**** We found a key so far we found 988 keys  total number of gets 200307787 avg 202740
+**** We found a key so far we found 989 keys  total number of gets 200472100 avg 202701
+** Total gets so far 201000000 keys we found 989 avg 203235 %run 21.501%
+**** We found a key so far we found 990 keys  total number of gets 201015584 avg 203046
+**** We found a key so far we found 991 keys  total number of gets 201227566 avg 203055
+**** We found a key so far we found 992 keys  total number of gets 201420778 avg 203045
+**** We found a key so far we found 993 keys  total number of gets 201426450 avg 202846
+**** We found a key so far we found 994 keys  total number of gets 201644725 avg 202861
+**** We found a key so far we found 995 keys  total number of gets 201738062 avg 202751
+**** We found a key so far we found 996 keys  total number of gets 201982058 avg 202793
+** Total gets so far 202000000 keys we found 996 avg 202811 %run 7.52786%
+**** We found a key so far we found 997 keys  total number of gets 202087038 avg 202695
+**** We found a key so far we found 998 keys  total number of gets 202215296 avg 202620
+**** We found a key so far we found 999 keys  total number of gets 202800703 avg 203003
+**** We found a key so far we found 1000 keys  total number of gets 202913787 avg 202913
+**** We found a key so far we found 1001 keys  total number of gets 202997966 avg 202795
+** Total gets so far 203000000 keys we found 1001 avg 202797 %run 0.853026%
+**** We found a key so far we found 1002 keys  total number of gets 203608770 avg 203202
+**** We found a key so far we found 1003 keys  total number of gets 203724940 avg 203115
+**** We found a key so far we found 1004 keys  total number of gets 203927293 avg 203114
+** Total gets so far 204000000 keys we found 1004 avg 203187 %run 30.5067%
+**** We found a key so far we found 1005 keys  total number of gets 204299484 avg 203283
+**** We found a key so far we found 1006 keys  total number of gets 204559722 avg 203339
+**** We found a key so far we found 1007 keys  total number of gets 204708974 avg 203285
+** Total gets so far 205000000 keys we found 1007 avg 203574 %run 22.1111%
+**** We found a key so far we found 1008 keys  total number of gets 205006240 avg 203379
+**** We found a key so far we found 1009 keys  total number of gets 205661826 avg 203827
+**** We found a key so far we found 1010 keys  total number of gets 205857494 avg 203819
+** Total gets so far 206000000 keys we found 1010 avg 203960 %run 59.7936%
+**** We found a key so far we found 1011 keys  total number of gets 206178737 avg 203935
+**** We found a key so far we found 1012 keys  total number of gets 206325278 avg 203878
+**** We found a key so far we found 1013 keys  total number of gets 206344619 avg 203696
+**** We found a key so far we found 1014 keys  total number of gets 206419626 avg 203569
+**** We found a key so far we found 1015 keys  total number of gets 206477366 avg 203425
+**** We found a key so far we found 1016 keys  total number of gets 206604909 avg 203351
+**** We found a key so far we found 1017 keys  total number of gets 206635735 avg 203181
+**** We found a key so far we found 1018 keys  total number of gets 206658882 avg 203004
+** Total gets so far 207000000 keys we found 1018 avg 203339 %run 43.1292%
+**** We found a key so far we found 1019 keys  total number of gets 207039009 avg 203178
+**** We found a key so far we found 1020 keys  total number of gets 207149382 avg 203087
+**** We found a key so far we found 1021 keys  total number of gets 207150748 avg 202890
+**** We found a key so far we found 1022 keys  total number of gets 207580503 avg 203112
+**** We found a key so far we found 1023 keys  total number of gets 207727039 avg 203056
+** Total gets so far 208000000 keys we found 1023 avg 203323 %run 14.5312%
+**** We found a key so far we found 1024 keys  total number of gets 208011118 avg 203135
+**** We found a key so far we found 1025 keys  total number of gets 208188185 avg 203110
+**** We found a key so far we found 1026 keys  total number of gets 208339084 avg 203059
+**** We found a key so far we found 1027 keys  total number of gets 208483964 avg 203002
+** Total gets so far 209000000 keys we found 1027 avg 203505 %run 16.523%
+**** We found a key so far we found 1028 keys  total number of gets 209218185 avg 203519
+**** We found a key so far we found 1029 keys  total number of gets 209272582 avg 203374
+**** We found a key so far we found 1030 keys  total number of gets 209339668 avg 203242
+**** We found a key so far we found 1031 keys  total number of gets 209411012 avg 203114
+**** We found a key so far we found 1032 keys  total number of gets 209616799 avg 203117
+**** We found a key so far we found 1033 keys  total number of gets 209800062 avg 203097
+**** We found a key so far we found 1034 keys  total number of gets 209872648 avg 202971
+**** We found a key so far we found 1035 keys  total number of gets 209924126 avg 202825
+** Total gets so far 210000000 keys we found 1035 avg 202898 %run 31.8355%
+**** We found a key so far we found 1036 keys  total number of gets 210270383 avg 202963
+**** We found a key so far we found 1037 keys  total number of gets 210387489 avg 202880
+**** We found a key so far we found 1038 keys  total number of gets 210405199 avg 202702
+**** We found a key so far we found 1039 keys  total number of gets 210630280 avg 202724
+** Total gets so far 211000000 keys we found 1039 avg 203079 %run 55.1303%
+**** We found a key so far we found 1040 keys  total number of gets 211058651 avg 202941
+**** We found a key so far we found 1041 keys  total number of gets 211655637 avg 203319
+** Total gets so far 212000000 keys we found 1041 avg 203650 %run 44.4908%
+**** We found a key so far we found 1042 keys  total number of gets 212093810 avg 203544
+**** We found a key so far we found 1043 keys  total number of gets 212213696 avg 203464
+**** We found a key so far we found 1044 keys  total number of gets 212330975 avg 203382
+**** We found a key so far we found 1045 keys  total number of gets 212406474 avg 203259
+**** We found a key so far we found 1046 keys  total number of gets 212546272 avg 203199
+**** We found a key so far we found 1047 keys  total number of gets 212555342 avg 203013
+**** We found a key so far we found 1048 keys  total number of gets 212754236 avg 203009
+**** We found a key so far we found 1049 keys  total number of gets 212826063 avg 202884
+** Total gets so far 213000000 keys we found 1049 avg 203050 %run 72.9818%
+**** We found a key so far we found 1050 keys  total number of gets 213176522 avg 203025
+**** We found a key so far we found 1051 keys  total number of gets 213298274 avg 202947
+**** We found a key so far we found 1052 keys  total number of gets 213310213 avg 202766
+**** We found a key so far we found 1053 keys  total number of gets 213418377 avg 202676
+**** We found a key so far we found 1054 keys  total number of gets 213516634 avg 202577
+**** We found a key so far we found 1055 keys  total number of gets 213713355 avg 202571
+**** We found a key so far we found 1056 keys  total number of gets 213825342 avg 202486
+**** We found a key so far we found 1057 keys  total number of gets 213974414 avg 202435
+** Total gets so far 214000000 keys we found 1057 avg 202459 %run 10.7352%
+**** We found a key so far we found 1058 keys  total number of gets 214070122 avg 202334
+**** We found a key so far we found 1059 keys  total number of gets 214669526 avg 202709
+**** We found a key so far we found 1060 keys  total number of gets 214813676 avg 202654
+**** We found a key so far we found 1061 keys  total number of gets 214976233 avg 202616
+** Total gets so far 215000000 keys we found 1061 avg 202639 %run 9.97197%
+**** We found a key so far we found 1062 keys  total number of gets 215204522 avg 202640
+**** We found a key so far we found 1063 keys  total number of gets 215204541 avg 202450
+**** We found a key so far we found 1064 keys  total number of gets 215477642 avg 202516
+**** We found a key so far we found 1065 keys  total number of gets 215656063 avg 202493
+**** We found a key so far we found 1066 keys  total number of gets 215864346 avg 202499
+**** We found a key so far we found 1067 keys  total number of gets 215875667 avg 202320
+** Total gets so far 216000000 keys we found 1067 avg 202436 %run 52.1684%
+**** We found a key so far we found 1068 keys  total number of gets 216045097 avg 202289
+**** We found a key so far we found 1069 keys  total number of gets 216467452 avg 202495
+**** We found a key so far we found 1070 keys  total number of gets 216542427 avg 202376
+**** We found a key so far we found 1071 keys  total number of gets 216991969 avg 202606
+** Total gets so far 217000000 keys we found 1071 avg 202614 %run 3.36931%
+**** We found a key so far we found 1072 keys  total number of gets 217206601 avg 202618
+**** We found a key so far we found 1073 keys  total number of gets 217534414 avg 202734
+**** We found a key so far we found 1074 keys  total number of gets 217604510 avg 202611
+**** We found a key so far we found 1075 keys  total number of gets 217772057 avg 202578
+**** We found a key so far we found 1076 keys  total number of gets 217985524 avg 202588
+** Total gets so far 218000000 keys we found 1076 avg 202602 %run 6.07356%
+**** We found a key so far we found 1077 keys  total number of gets 218410840 avg 202795
+**** We found a key so far we found 1078 keys  total number of gets 218734830 avg 202908
+**** We found a key so far we found 1079 keys  total number of gets 218766050 avg 202748
+** Total gets so far 219000000 keys we found 1079 avg 202965 %run 98.1626%
+**** We found a key so far we found 1080 keys  total number of gets 219173773 avg 202938
+**** We found a key so far we found 1081 keys  total number of gets 219408638 avg 202968
+**** We found a key so far we found 1082 keys  total number of gets 219752396 avg 203098
+**** We found a key so far we found 1083 keys  total number of gets 219954919 avg 203097
+**** We found a key so far we found 1084 keys  total number of gets 219985802 avg 202938
+** Total gets so far 220000000 keys we found 1084 avg 202952 %run 5.95692%
+**** We found a key so far we found 1085 keys  total number of gets 220158916 avg 202911
+**** We found a key so far we found 1086 keys  total number of gets 220693715 avg 203217
+**** We found a key so far we found 1087 keys  total number of gets 220931483 avg 203248
+** Total gets so far 221000000 keys we found 1087 avg 203311 %run 28.7486%
+**** We found a key so far we found 1088 keys  total number of gets 221208412 avg 203316
+**** We found a key so far we found 1089 keys  total number of gets 221287614 avg 203202
+**** We found a key so far we found 1090 keys  total number of gets 221953914 avg 203627
+** Total gets so far 222000000 keys we found 1090 avg 203669 %run 19.3368%
+**** We found a key so far we found 1091 keys  total number of gets 222233390 avg 203696
+**** We found a key so far we found 1092 keys  total number of gets 222746983 avg 203980
+** Total gets so far 223000000 keys we found 1092 avg 204212 %run 6.16294%
+**** We found a key so far we found 1093 keys  total number of gets 223210314 avg 204218
+**** We found a key so far we found 1094 keys  total number of gets 223487693 avg 204284
+**** We found a key so far we found 1095 keys  total number of gets 223541971 avg 204147
+**** We found a key so far we found 1096 keys  total number of gets 223770808 avg 204170
+**** We found a key so far we found 1097 keys  total number of gets 223775447 avg 203988
+**** We found a key so far we found 1098 keys  total number of gets 223847000 avg 203867
+** Total gets so far 224000000 keys we found 1098 avg 204007 %run 64.1968%
+**** We found a key so far we found 1099 keys  total number of gets 224545303 avg 204317
+**** We found a key so far we found 1100 keys  total number of gets 224885018 avg 204440
+**** We found a key so far we found 1101 keys  total number of gets 224945494 avg 204310
+**** We found a key so far we found 1102 keys  total number of gets 224971090 avg 204147
+** Total gets so far 225000000 keys we found 1102 avg 204174 %run 12.1299%
+**** We found a key so far we found 1103 keys  total number of gets 225102691 avg 204082
+**** We found a key so far we found 1104 keys  total number of gets 225327916 avg 204101
+**** We found a key so far we found 1105 keys  total number of gets 225440180 avg 204018
+**** We found a key so far we found 1106 keys  total number of gets 225896147 avg 204246
+**** We found a key so far we found 1107 keys  total number of gets 225904441 avg 204069
+** Total gets so far 226000000 keys we found 1107 avg 204155 %run 40.0952%
+**** We found a key so far we found 1108 keys  total number of gets 226010500 avg 203980
+**** We found a key so far we found 1109 keys  total number of gets 226114782 avg 203890
+**** We found a key so far we found 1110 keys  total number of gets 226534882 avg 204085
+**** We found a key so far we found 1111 keys  total number of gets 226919518 avg 204247
+** Total gets so far 227000000 keys we found 1111 avg 204320 %run 33.769%
+**** We found a key so far we found 1112 keys  total number of gets 227264893 avg 204374
+**** We found a key so far we found 1113 keys  total number of gets 227301263 avg 204223
+**** We found a key so far we found 1114 keys  total number of gets 227565473 avg 204277
+**** We found a key so far we found 1115 keys  total number of gets 227627294 avg 204150
+**** We found a key so far we found 1116 keys  total number of gets 227825375 avg 204144
+**** We found a key so far we found 1117 keys  total number of gets 227930057 avg 204055
+** Total gets so far 228000000 keys we found 1117 avg 204118 %run 29.347%
+**** We found a key so far we found 1118 keys  total number of gets 228477747 avg 204362
+**** We found a key so far we found 1119 keys  total number of gets 228593324 avg 204283
+** Total gets so far 229000000 keys we found 1119 avg 204647 %run 70.6367%
+**** We found a key so far we found 1120 keys  total number of gets 229223417 avg 204663
+**** We found a key so far we found 1121 keys  total number of gets 229299061 avg 204548
+**** We found a key so far we found 1122 keys  total number of gets 229533776 avg 204575
+**** We found a key so far we found 1123 keys  total number of gets 229700006 avg 204541
+**** We found a key so far we found 1124 keys  total number of gets 229877813 avg 204517
+**** We found a key so far we found 1125 keys  total number of gets 229984063 avg 204430
+** Total gets so far 230000000 keys we found 1125 avg 204444 %run 6.68658%
+**** We found a key so far we found 1126 keys  total number of gets 230177051 avg 204420
+**** We found a key so far we found 1127 keys  total number of gets 230632202 avg 204642
+**** We found a key so far we found 1128 keys  total number of gets 230635031 avg 204463
+**** We found a key so far we found 1129 keys  total number of gets 230871196 avg 204491
+** Total gets so far 231000000 keys we found 1129 avg 204605 %run 54.0444%
+**** We found a key so far we found 1130 keys  total number of gets 231060546 avg 204478
+**** We found a key so far we found 1131 keys  total number of gets 231144358 avg 204371
+**** We found a key so far we found 1132 keys  total number of gets 231201833 avg 204241
+**** We found a key so far we found 1133 keys  total number of gets 231350547 avg 204192
+**** We found a key so far we found 1134 keys  total number of gets 231479740 avg 204126
+**** We found a key so far we found 1135 keys  total number of gets 231710101 avg 204149
+**** We found a key so far we found 1136 keys  total number of gets 231786476 avg 204037
+** Total gets so far 232000000 keys we found 1136 avg 204225 %run 89.5921%
+**** We found a key so far we found 1137 keys  total number of gets 232325172 avg 204331
+**** We found a key so far we found 1138 keys  total number of gets 232804856 avg 204573
+**** We found a key so far we found 1139 keys  total number of gets 232945312 avg 204517
+**** We found a key so far we found 1140 keys  total number of gets 232970876 avg 204360
+** Total gets so far 233000000 keys we found 1140 avg 204385 %run 12.2197%
+**** We found a key so far we found 1141 keys  total number of gets 233110766 avg 204303
+**** We found a key so far we found 1142 keys  total number of gets 233269663 avg 204264
+**** We found a key so far we found 1143 keys  total number of gets 233551458 avg 204331
+**** We found a key so far we found 1144 keys  total number of gets 233663638 avg 204251
+**** We found a key so far we found 1145 keys  total number of gets 233699346 avg 204104
+**** We found a key so far we found 1146 keys  total number of gets 233760220 avg 203979
+** Total gets so far 234000000 keys we found 1146 avg 204188 %run 0.608825%
+**** We found a key so far we found 1147 keys  total number of gets 234325304 avg 204294
+**** We found a key so far we found 1148 keys  total number of gets 234335561 avg 204125
+**** We found a key so far we found 1149 keys  total number of gets 234863132 avg 204406
+**** We found a key so far we found 1150 keys  total number of gets 234904631 avg 204264
+** Total gets so far 235000000 keys we found 1150 avg 204347 %run 40.0154%
+**** We found a key so far we found 1151 keys  total number of gets 235031516 avg 204197
+**** We found a key so far we found 1152 keys  total number of gets 235143702 avg 204117
+**** We found a key so far we found 1153 keys  total number of gets 235648082 avg 204378
+**** We found a key so far we found 1154 keys  total number of gets 235865238 avg 204389
+**** We found a key so far we found 1155 keys  total number of gets 235955644 avg 204290
+** Total gets so far 236000000 keys we found 1155 avg 204329 %run 18.6109%
+**** We found a key so far we found 1156 keys  total number of gets 236041085 avg 204187
+**** We found a key so far we found 1157 keys  total number of gets 236049712 avg 204018
+**** We found a key so far we found 1158 keys  total number of gets 236201450 avg 203973
+ string founds 
+Y7iwWRIg
+xSvIgjJA
+4V2JeTei
+4yJFxkxn
+5Iu7ACBn
+IXuj328e
+oJk3hmsz
+lTPkD0q4
+LT2ccEJW
+k69nqpfR
+GNjGsQiw
+cegCNzps
+QSmW7HHT
+Z7DfSinx
+eVszHvsO
+aRToi4uZ
+n1FQxp5T
+5YIjmH8l
+VAmcF3UF
+ZviIHHM4
+HZ8dEFoD
+8OPONEw9
+Rrii4BQp
+vS7OGUfn
+Pnl3TW95
+21y5QfXe
+yMUTGQws
+I6WjSOal
+C0BG0KEJ
+fQxAE3vQ
+cyWABFGW
+6MKlxNFg
+BDctjzLJ
+IotGxaw4
+MuD2KHko
+XyQ5BE3A
+Pxrt8AA5
+sQa32CiA
+TUyTxG46
+FhnLQy2O
+EEKN5K10
+IrHevdh6
+jcH118Oj
+BGSJML00
+kUPXusIB
+DlD64lpr
+0EzkBF7g
+NsozT9eH
+JrJ7ZYqn
+aVPosj91
+wMf3XgR6
+avX4uN8w
+rIuYjPfw
+E87Gp9kS
+FRmxbl71
+SHitJ0Gg
+CcxYjO3a
+cQbG5A3Z
+5HX8nziG
+KnduoKVx
+xKBeHjU4
+hTEYGKnB
+P8qEW0SW
+o2fgljHg
+n7L8w30C
+2smGcn9v
+QDUIACei
+wHfDGy8K
+wJa8fptH
+ZczNTkto
+DmtvYxby
+F4MasgCG
+cwCzDKbv
+3WVnzeZi
+n4Fa5Sft
+p0vkbRMh
+6nW6GwCw
+OHCpp4EQ
+ShDNvuut
+BWinV6mW
+R7k4d0Wm
+OPtibW9v
+wVg3gyET
+4uTE8o2G
+T8WFcME5
+6gJ62njV
+gNT9U63I
+a3p74t3v
+GQyYWqJz
+qnjSjHT3
+w6zek9Ip
+gjfJVEAD
+VBy5xSFf
+vean12b2
+vjdMgrd5
+qAJ1uU0N
+j0vFEnRv
+c743oFEH
+QngnsAke
+yCE1iNkO
+hkgSPKBC
+UbzC2HkU
+xwjT0GZ1
+zrKzWtZj
+btf3RHaE
+3dZLQDGL
+tDchuJTT
+0avpVrCz
+v95TmDJi
+k6Bq9DA1
+L5kJAGoq
+JsCGN6EO
+UWNjUB5b
+smso4dTn
+07mDvZij
+fCT3JyiA
+ajrLQ5ap
+PCcZSMqA
+rVRXwhsh
+3IEwAzEx
+wFWTOxGa
+iRf7KaXh
+GNn8k6pM
+LjtNrCyN
+MWtCNJBZ
+agamyizz
+MZ1NiAko
+qZMFjpio
+QV3dLctD
+ustRDWIt
+9p0zYOoX
+tkYr3Hqs
+ITVnq2uH
+etzstnsv
+EQ1qpKTU
+QsSraSzK
+vf8PRA17
+lCg5gGar
+uyaZ6Hd1
+cdIl7WGY
+f4BJCKe9
+OcJyHEd3
+h1BK35Tr
+IzFRYE24
+5cIYECrz
+MGNQX1BA
+markBBO8
+Ub6UFW2A
+2AmikXKN
+FXq2m2po
+X834HIht
+6WZUNghI
+sAENn6iL
+50cvv7Ac
+Ut69pBCN
+CYG9ru8s
+8CjxyuOd
+971KIGQS
+ZpyPVgct
+l3wA3ajZ
+ww7XykxW
+PO8r3obN
+3pWIDYCW
+pliUuaR2
+yNr6fb0Z
+i79UADAD
+u1zJpUh0
+gwv45sRT
+54y2dhPO
+92iahcR6
+jO3IoX0Y
+9F912l7H
+IO8Wc1mT
+05CyA8iT
+DB1ShaHY
+VB9O3GIr
+Eyqentt2
+K39FpVG3
+kmFX8Sa5
+HtZbaH63
+kGEVhPPI
+M0W8nmCf
+pXcWXUV7
+CwW25kT2
+BL9VwszX
+PuukAyOZ
+fYLtqMwG
+Neh3vKAy
+XhIN3lzj
+3G7S0tRF
+ejBOjTef
+KmkWRuYW
+lS49kNhX
+LrWFICJS
+LjI7EGWe
+3RqHnDuw
+maNLjNPd
+BLlBijyK
+04gObo7w
+kzsQw9Zi
+fzuEl6iE
+6nqVuqCW
+maWiH4AJ
+a0qxGYSv
+3SX8FaF1
+oM6W5jJH
+l55oGvXg
+kaTFyDfY
+3iPWt9xs
+qvdct1Fh
+PRmYahml
+52VTF7mZ
+yGxAWdGi
+CmBFASLr
+iz8otIyg
+Bj63Fuyv
+FIyFzF2a
+otScLowZ
+1fIONZZu
+qwX5zDC7
+cLmPNfs0
+GqJpOpbo
+6VXu7d1j
+mEiPspiT
+nDFMJcDK
+kyzS3F2G
+egaHySES
+m1VnxPsk
+gl8KTps7
+66xSHuVY
+RvUFmZDV
+XsVWt3N3
+yanduE9E
+LtOK8w54
+VsQsyfv4
+GDRIiO33
+4sC4NIh5
+eCuTPNjY
+lXI68qZ7
+wURCPDJ4
+DXYQFq6G
+uDyg4oFl
+MWsen6bl
+iyfnaMiU
+nGNKMP5M
+Uliq42W0
+4D9d1G26
+FyR4dSA5
+xXyvhhWq
+hJ3VFleR
+fDPl9IEs
+W1ZIGxF9
+9yBBXAip
+Lw6JcxW3
+ykJjOv3G
+4yb8R7Bc
+LlihYAZO
+2wBUkm4c
+Y8ORvs7j
+uLvaKeGz
+mq0wQwWj
+hoCCqM7F
+9ACbOlMP
+4H7ww8XM
+qCmjsJpx
+jKYEBTor
+MHgfXtAZ
+N4O3Knr3
+aa7a8Qqk
+gFhekr06
+HEVZexs6
+GR8WThNP
+vQ1qcs11
+fpdbhq5c
+wVx8zOYF
+Q5JCBdyU
+tlP8hWYF
+bxuczAov
+L0E3Ci4T
+DacRRvCt
+TuNGtUK9
+OGO9uO2V
+HtECFtRv
+dvV7bycb
+UNaf7bH0
+bDwtLbzc
+YvUhXZu2
+3PwHcZin
+mFlEJw9Z
+9Y5is45N
+HqereX7i
+KPnUAviJ
+rv2ba5Jm
+Pyu3J3J9
+0bvPOEpx
+AdunWPQ9
+3dlIihHg
+ml8shtE0
+6AxjzmCO
+ldJ2YIkd
+ulEdf8UE
+BUEQflXE
+j8lBKSGw
+8tPKwK1u
+vDzHrKSi
+GXobnt6H
+6ZtEbPEB
+rZoLtEr5
+pvykl0vD
+TrgtqB8q
+h4fYQFi8
+cd6o5vkM
+GBas8Hii
+h2PtdlOP
+2lbb4GE0
+ft2Bkgn8
+0TtQn1OT
+5iQDjRHy
+2jgTCSTc
+B6KHdQUx
+N0rj3yZ8
+OjwZvBV6
+nDkJRJBZ
+EwWaZDLV
+1R8aTKi5
+mtPEmqlc
+AgnYP1Xz
+OpzjfSzo
+6krq5XM7
+GjSCvkcS
+P1TiHDNN
+Xk5BKNl6
+55vfsM9K
+nmZVnyWE
+EWtcj0u6
+bCxiO9aL
+8CwFsW75
+qwoWyTgY
+t0BZvO5b
+TpM26kEV
+zp4jeBwf
+KB75baqG
+uLh8Z8GZ
+pZK6uI07
+tZ3pmY9D
+IoDt0JR0
+4Rydzm0l
+KbxJUxTq
+eYsQboCp
+DyKqgLbd
+4eDDVeEN
+bPdaTaee
+4ftuE6tG
+CAJA0lpw
+mMwZfBIa
+6ABByNfe
+uq9XUAPD
+BBI8lgUZ
+JnBsImnD
+hyqXqXHZ
+mDNGqEgD
+0HeKMsIu
+jUjQifQo
+mCTO5Ysb
+i6ToNgVs
+Xp0JD8mx
+SRQnUpVh
+Uk9gcHVK
+ULANfuvK
+iRQnWm1r
+r75PLcsM
+J33iIOj8
+tYRODgbq
+h7JhoKWA
+aLZ1z6ZR
+mh6QwECm
+gASldmmk
+ODZKmFhQ
+HHzgpRbU
+6pwldLU5
+RL05X6Nr
+AZHMbAXO
+ZPMhZKw9
+mpPGvmED
+BhtpKyRp
+EKMiLVZa
+vaZNS3pB
+LRSjXSgc
+2CQXZrWS
+BzlRv1Eb
+02VEAnz9
+Dcszippd
+pViMBSZZ
+6p9N52Dr
+hZYrgjr9
+66eCDVFE
+c6KKYHSA
+C0giKSsf
+g6756XAA
+Fn6H5v7K
+RXs0EAbQ
+Aa9ueYn3
+5YIsYMIC
+x0BFnx0S
+O9YzCpk1
+qpj8tIBV
+nzUflVnB
+cCOG6WvX
+eoa1gs2S
+Ml1t8PO2
+y6OomnAd
+OMCQ7BoW
+5d8OS8kC
+AKpfAE1C
+PNha1kfS
+nGhae2WY
+R0qgnvKv
+0gxGu3FP
+HUPwfGE6
+zdzEjtcE
+El5AbaVZ
+mIjbuLXj
+YFms0ZOO
+GDj3Yqcp
+sEt8mF9s
+rXeGA7o2
+c1cI8agz
+SNA4ogRM
+Loh7vE2B
+xtOAvaiA
+m3dXGD2y
+NaPIRfnu
+NjUKhsjr
+QPWJZM8I
+8iMWRmh0
+wPNbcdch
+HJySZHOZ
+eTUuh4gb
+sTHExjh3
+7TZxkVxG
+HIImHWq6
+CYfEOR3Y
+1Quo6pYZ
+ql1wyTYA
+EG8i6OsM
+An7LwKls
+JYvrXm9h
+VIL8nKHb
+BhX9DVOW
+9sRaOPen
+5rY9CMji
+dgCGTjEd
+TxncxjDk
+R62UkFW0
+NCPRODSy
+1EzIIlYr
+1CwhTnsS
+xg8dX9ya
+CGoG3epC
+9rOJPrGI
+rjtCDF08
+QU1msMgb
+WAPRzhqX
+E7tzJMdE
+1SpHhsCZ
+FYnUBI6h
+iqpJ86up
+26ZshrRZ
+Kqf8Uh45
+t3rqCqtJ
+P0jQRvAd
+VWNMk6N0
+sZwUAAG1
+PaCYpBMS
+g7NChq7K
+51W8629M
+GmefVzdM
+lIhCtFtG
+UNnuBmin
+shm0NJUl
+bcqatzvK
+hr89lS8f
+BzozZPSo
+Lj3vyqRP
+1vqDvgaN
+Q1WpchBh
+H5iTFQp2
+GJYvMWCb
+vOWutXen
+gnobdjBq
+MFLCoScX
+PUZMbUxb
+xyAcrcS4
+GtNjBknD
+kJCWzWLL
+PyQNsLlo
+cn9Vgsjz
+AB9YnjFb
+uKtPp8R6
+8nqoJAn5
+X1966ugn
+CAOVQzl6
+YH7P5wQS
+5gynl6gs
+6Yv6xeDH
+LndI4JSq
+QZuSCN6K
+epXZuPKi
+VItoZqE6
+mHZ1gUdg
+Ee9l7Fxw
+PTz4wPVD
+RGrDApMH
+DkO6LHLt
+UHms4e5P
+aF74PJMX
+0W4qVVwS
+e3UfWuGr
+1FpwI0ch
+UbNiWi2b
+25ukjIPC
+XYrfklHs
+hLinwH0e
+fiB3aki2
+kLReC9nn
+IXnnZ9oM
+89E4Z9Y2
+Z5rKAT0j
+2eF1bASe
+xyf7dNrF
+1P3gABPZ
+r3WiY4as
+veMwXm8c
+NTZKhWnR
+68HaUOK4
+Vgg1bN4B
+hR1iZwZj
+Okl4P24G
+S2zsJQ0W
+1HxdPQqj
+GoDZYZTE
+aLJAEAJU
+nV9bqahU
+gLQhTSZ6
+aFoHJr2W
+3aMej1o9
+1Jk9vVCE
+uRZMb0sN
+uyosTQ1T
+841zzN4J
+rDixwg10
+EWPdXJjB
+ivDZfiPJ
+H45Bs7Bu
+4YTyBiYk
+sd70OW1h
+9zYemozS
+kzxYtwL9
+dFmfBWDT
+y6RTOkzj
+JuE2JQCq
+tCgKSXis
+3xZl8iew
+neWIcKHN
+KkCVqqn6
+WZfqtrQY
+ZAh3tm9a
+To5L4nrq
+8KGYo9Aa
+vdB0Z9Kv
+tg8eZ9i5
+E9D0mIU6
+VSeA7n2O
+MggusKSj
+YXaEOEHv
+se2w9bcP
+4L7bv98r
+57EHvq2t
+4vPteGcc
+qqnQNMxI
+vXmdoDKx
+gCIKADKq
+79E03M6R
+yVz5K16Z
+cnBPhxwX
+aQqgSUO9
+1RFz8HqX
+UR4rkSbQ
+FLc55oob
+MHV1TZ4L
+MZ1TKBuj
+XspdDUxM
+TZSVsLLH
+ABDp9v4M
+BBRzZjXn
+qW1FEBF2
+t2Uei2vb
+ugz2d8EY
+kcGc41KK
+W0VtChMZ
+Wy9LzdBg
+H1zFl57Y
+zjgbCwX2
+0eCVDSJr
+dwjok8Ko
+ASSXnr5A
+3x6JHQvu
+EPDDn6ZB
+xymwAG43
+PRerUVJ6
+wSqL6CBU
+esHze2AG
+lSaupNrW
+BTbCmQdl
+oJYDnr7S
+txQqVHs4
+QFV1JUft
+v4Uj79dN
+5L2FaNzv
+msHBq66z
+tTxAXQXT
+lShEMSuA
+XRkxtuaL
+KHfY2R3J
+cE2VqeUm
+SLOyqWUU
+XMy4rHN7
+sxrxHH3D
+PzHgJyET
+eb4iaHsF
+sk34RZuQ
+YQDUhEdH
+Fwb3YQ67
+vTWkBhIJ
+W9l1yX67
+s0uYpPhK
+CL6BcwxI
+X39QqnRm
+Jsm8ysDb
+5cx5fVcz
+5GnzmGeo
+iE1bs2rK
+xk1kq92w
+tTPgO6KA
+Ji9sVIkG
+VWhsSevv
+nxanDDzO
+JL5tOkRI
+5WGkwcV3
+FyrSlw48
+tHvLOBH5
+gxEdtz5l
+quyVkbxM
+ay7PC5y1
+WZ9wlY3f
+9tuUDLGL
+LSCAe2JJ
+z8qnLuTh
+NBiJF5fW
+SfOHzgHw
+BNU2dDWE
+Gt6Kunv0
+VCt9cJkK
+g45OJGA5
+LGGF1Fr5
+oWa1hlhE
+pY6NyIBb
+tPk7Pttx
+TbPDh1ta
+wDMEb3BW
+VgYLOsvw
+YosdTmwV
+QmVARitP
+ovLj5SB7
+VkRPcJZA
+4hRvLXOJ
+rr04xr6g
+tjtnbGPP
+30Szw40x
+uhm12cv2
+DyD1b9es
+uV55MMvt
+aMFVCXdu
+JWlXEDEl
+BIDuMCam
+BbL2pcGr
+TdK2WBla
+jbFrGBDF
+5q0OxIXP
+JUiNZ7S3
+Vni6gtdC
+6o23pgnP
+C4Wv4DX4
+G4xRfKby
+O2qMCcwQ
+44KuEnlz
+WhRg8rtT
+PcniwWOw
+7gaD2wTy
+JUwJJYxa
+IaucyQDu
+5LHWdoUC
+o482XSIE
+MiU7RTDg
+rEwQGYPw
+BAyK18HW
+XeRUBjiz
+SUiUuxdq
+8aIe9peU
+Bn5D3eHn
+YhQ4YWww
+5hsSPUBL
+bekbwCXe
+QJhnl6w3
+0TIVCsfb
+zF3acWFx
+QvcC6oX4
+OC07EgsC
+G00Tl1tl
+Ke6muaDP
+c3r9sm82
+uzKqzQN8
+UPpgPAzz
+X2j2IUHx
+QkxSkgRM
+N6QRJThq
+phOnW6uv
+uCuuufsV
+asJJQSE9
+l45s5zug
+rYUMiau4
+mAwHUW7Z
+nZnAIojg
+P8ApGL70
+BMQkAQET
+hlASE40t
+5F6LJxEA
+fUiHOfBU
+2vzvPgK4
+b9noosmp
+vtFAXyvO
+U0ZmN7db
+yUm6jwts
+NeBDWQV1
+B3cTMnNL
+krgICl9u
+qdQgwP2Q
+wB5X6gFB
+g4Fca4MP
+wU0eAGeP
+GAMo7wMS
+kAcV9kEn
+1yLUzb58
+6C40ARf6
+ZgkmiODn
+RCH2vLut
+xj2yAV9F
+L36wj2pw
+6mgyLjQ4
+aNGv4g4Q
+xr5m3xcT
+6eW2QBQJ
+NfLrXdnb
+umiLYLyp
+wKYuvm4u
+KHOScgmC
+8gTirzny
+5dfM8Ksj
+CErEpSzi
+c11ieuZ2
+Z5KIq31w
+DHeXO6In
+PZRnfted
+92mN8aJS
+wg0DXPYI
+4LmPulw3
+cQMFRge8
+84a38HYn
+j0eRM8um
+hd5AmLBW
+7l1AAW8j
+NUAz3AkA
+ogGCISkx
+Flo4pvmI
+ge5BBBZM
+jLrzR0Ir
+vh1KNyHM
+kr8SSBjp
+UJeVr8WH
+Fp2ZVQuy
+rraXzdOG
+PE4b19ND
+MNIzyPZc
+ZlrXxLjW
+zPiwobvK
+cPBJWwQa
+XhBV6bnf
+Bv5etHTW
+wVDQhC01
+JRrVhQog
+uUGrmaGP
+VVbIgQrT
+O6yuQRjd
+C9nYh0y1
+KyVvaBhW
+li8RAbVc
+sQMgkeQ3
+xm5Kb3IC
+VGdJB8Yl
+puNkuppK
+DnQWMsuP
+JJHBgqyB
+1C3HjZRo
+V0Zh8YeM
+vJdPvYWK
+ZjvUMcw2
+sSsruG1r
+vqh5DJ3G
+hLWnCrFs
+fSuOjhOY
+645BZO3I
+TQXPhdvf
+2S1ONADV
+KBlW8lzE
+L6v4efBU
+ZDq2Wsgi
+z0onkg1S
+avd0cExX
+gwc0SMph
+e2k5r7Yy
+Pz6CUuzE
+K3WZSOOG
+Fi9xxgzv
+EsnDfNVN
+kQ6yK8HD
+DHEI4TI9
+EO3dtsOy
+KF1rnpIU
+Cpfy5Hl6
+s77t6W4l
+zEF8nZkD
+1ucenNkD
+KfvkVNas
+cDc0FF0n
+cHw9JACf
+ZXsoNtop
+ztpe1Qxu
+3DttTOqY
+q8qPeIXj
+d0gWZ9mR
+WBcH4WZ1
+HLNzXrrp
+jvor08ei
+aEGAhn2Q
+UpKCdMKb
+nCG3fXrE
+XYvhIGWU
+u61YNT30
+GFwOvhpN
+5q3KPNGz
+OuGcEbHj
+9IfdwzIE
+exGgjLM0
+gtuRJOWg
+ga08oOU1
+QNyQlYZ0
+v7NzKNhI
+cdb3H58S
+blqFhHqf
+wlcaDlmm
+LmO3FGSF
+EZPc6Fbq
+Owf8AYmV
+vUO9BVds
+luZ19yyP
+BO4OPR03
+KcZoITCa
+Iwyj1YYp
+WvB0uoBY
+5KTO9FzP
+GQYVfabs
+olDgbc4O
+mVj2XI2x
+HdoJ5iCk
+Wdmfm3f2
+cTjfjQMJ
+VONN1uBM
+nmiNCuYU
+zkt6Lvqg
+3aBFXEyO
+LruiE8nZ
+NvdOgNn5
+Yk2BHZ5W
+ZONhUtzA
+kJTgp55E
+CI7hVBST
+ql7Iuj6X
+3MafYGpQ
+gONwuhwk
+pwZrwqLZ
+BoSqsBgy
+vIBiNAer
+y5rAANKI
+aVv0Zbvs
+XQtRa9wf
+rxZWdoLr
+9i19wtf8
+KkPRys0k
+e0l7DNmu
+O5tsBP0r
+vdzFD2O6
+95YOpJ7X
+YHj2UsVY
+dV9JZqw5
+mRZ1f718
+Hsbmvtln
+EdmTScmY
+Mh1N9SeK
+T55ABJD2
+IUUJfrds
+qNp8qIjJ
+kPC9D1s3
+ln9ILRg7
+5bbkeibl
+Y889TTId
+0zNIqzBP
+QDJVjl6d
+1AZZY4vP
+NzcA8X13
+wDRY0AjL
+spVpetny
+VehmMyNx
+OsS0dE21
+iXRhGhZ1
+eLGjJyf9
+JAmeLq7x
+lh3VPXEZ
+GiCfkoEE
+zjTxivF5
+T47pj09D
+sSHDCW9Z
+TOn9sUQa
+wQz9Gvdq
+e3kvwbYO
+XL2mcVmh
+kiqXqx8B
+bUk5F1A3
+tWMqw9z8
+hZZC9f0B
+7kNKyTzB
+wuP4nUU7
+3xY1dqtX
+BqVGM50p
+OnqEGXiK
+4XVMlFiM
+bmKT0bzm
+my7Nq7u3
+wPmCSBiI
+YZNwYzp4
+0ZyV7WDr
+DUXecinN
+Auy24zum
+ZwvIF5UI
+kAEsL1L5
+tChl48HF
+J5nmz1p6
+FuSF6Dqf
+h8GAhara
+KsD90L1E
+oWaFwAij
+MdbUTBVh
+shpgGWhl
+VwwyiTYc
+m66ksFqz
+jFRVHypp
+fugIqzlt
+XxINmeHz
+79rfL1bs
+9n06ZHhE
+H8LIWcQP
+eSQnVbAt
+ksmGqaix
+caiHQ7GQ
+WVQhVM3s
+KuYbbw4Y
+nx2dRIPR
+7m8NbffH
+CSgzZCbU
+tzSYEQUm
+3ieNTrx1
+KSzyh3jd
+N0gMSYqt
+ejh3sbDD
+DNq9J4WI
+P9OHqyrA
+tPv7ubDz
+mUwc0Btn
+8n16QHwP
+GidBICsc
+dXUeRDz5
+g41D9v3S
+Ce1HDI3P
+e48d5EnR
+nQ53L0NU
+Gq48QIZe
+NMmvCfRx
+WguhlMZr
+AXogLpuL
+znYaVUH7
+3FZgtY35
+CTHTbvJu
+qleEMMhI
+JkA1bfb6
+CKBVhtFW
+H2Yoepbr
+Zo9OmHli
+5prdaibl
+cAv4Ggbu
+DFItTK3e
+2kswtCSm
+0F5tZawb
+JiStTXXG
+zr9fOMhD
+BH2Qql34
+p1wIcUd4
+SnuOdNp0
+UIndULQV
+xiJvDfaq
+CgbV7ojw
+T0oHsrCb
+S8f6XsIR
+mcTSI1Hi
+8Ev3JVP0
+FHBy9s2T
+iN1dVnyr
+TCwudCeW
+hb1FnECX
+HXYkMeLN
+9axvd6Iu
+lHudgXBm
+kLxPNFsX
+jhsBfZ9s
+mJ4ZXFlN
+4FmHUEFK
+jjmlCtNS
+944iwKwX
+cXHjxcwr
+EnQfyZT7
+yyJBfsQE
+CCC3ADkI
+UHNg5FPT
+xKssIdgI
+3AiVACiJ
+drkCKzIW
+EGotmZk4
+iBMkjDio
+lznPhMWx
+P5iAUy3P
+JkqLGF5X
+68op3LE9
+XjNFrQr2
+TSwIK7ye
+b66zBaas
+jhRl9jc0
+Qp6xIUzU
+B9FE82ly
+jAh8kc6K
+zKcefSeT
+OkF6wV2k
+b7ne4tFq
+QOWTm26P
+lOmVP3ZX
+2kVIqxrs
+yO3ySsoJ
+G8dwzRKw
+iquhE3Ha
+oiIGFWN5
+a4LDhwrN
+42d3FihH
+NUQjRSek
+KbSew9gi
+y7VzoBAD
+Dcl8w0QE
+t60oOicg
+Nf4PgTcj
+LRq3LphW
+Eb9C8907
+J3GPtkcK
+GCAanuLB
+mH0zGXuV
+efixvkRP
+1ScsHjLU
+DfUfB6He
+qlKcUkj0
+axGq1ohB
+7FaSv7G4
+TXk0YbmY
+rVm9ssMe
+H24uQ5O6
+qVUuoAxq
+03eIepTz
+1M8TRgOZ
+pRMR7IoK
+HploD6KO
+ikdzTDmR
+I8oUw4Ms
+W4hFlcjV
+Rij0vBKM
+IUt0tBh7
+9NmmYVrX
+IOBlBMdX
+zzM8NB0I
+FsGt9jCL
+hNVIYgTB
+UwIGVqfg
+euF7oZG0
+DlB1iBoz
+xC3GysDR
+7xhVIEei
+55cGuN4W
+ftjmstQd
+TNX9G9dS
+bNnw4Rph
+uyei5Up0
+QCVChBNR
+02KccYmR
+SOVHe4zi
+KcZuBaTM
+gJVE19Bg
+kErQ7Xqb
+XDT8KvXX
+zTYZUo7a
+RYjjzMQL
+QmgusHLU
+VN0b775E
+w5nPwt10
+mscgKqiN
+CkkLXaWZ
+kYAvLKHz
+YnYjHgOt
+axk8CKyr
+Vg2ouPu0
+g0vnnlte
+oxQhwDlv
+VVLzUjr5
+Z994bpZZ
+n2Biqxap
+6SPuOcPA
+2dlRfnpm
+TNaHTkXu
+VYgwKHaG
+XEb2vDlB
+e0jPEhnj
+Pcoqt4EF
+jHyGhxGj
+YAlOxwoe
+XeYj2cpi
+nzuO5NDx
+Number of prefixes 1565
+Number of founds 1158
+ Total gets 236201450

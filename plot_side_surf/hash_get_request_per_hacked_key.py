@@ -54,17 +54,19 @@ def plot_hash(data_path1, data_path2):
     get_request_real = np.array(get_request_real, dtype=float)
     hash_keys_real = np.array(hash_keys_real, dtype=float)
 
-    hash_color = "#f46d43"
-    real_color = "#006837"
+    hash_color = "#c51b7d"
+    real_color = "#4d9221"
     
-    plt.plot(get_request.astype(float), hash_keys.astype(float), label='SuRF-Hash', color= hash_color)
-    plt.plot(get_request_real.astype(float), hash_keys_real.astype(float), label='SuRF-Real', color= real_color)
+    plt.plot(get_request.astype(float)/1000, hash_keys.astype(float), label='SuRF-Hash', color= hash_color)
+    plt.plot(get_request_real.astype(float)/1000, hash_keys_real.astype(float), label='SuRF-Real', color= real_color)
     
     plt.grid()
     plt.ylim([0,120])
-    plt.ylabel('Avg. get requests per extracted key (Millions)', fontsize=12)
-    plt.xlabel('Get Request (Millions)', fontsize=12)
-    plt.legend()
+    plt.ylabel('Avg. Get Requests per Extracted Key (Billions)', fontsize=12)
+    plt.xlabel('Get Request (Billions)', fontsize=14)
+    plt.legend(loc=1, fontsize=14)
+    plt.yticks(fontsize=12)  # Adjust the font size as per your preference
+    plt.xticks(fontsize=12)  # Adjust the font size as per your preference
  
 
 

@@ -65,18 +65,20 @@ def plot_base(data_path1, data_path2):
 
 
 
-    base_color = "#f46d43"
-    real_color = "#1a9850"
+    base_color = "#de77ae"
+    real_color = "#4d9221"
     
-    plt.plot(get_request_base.astype(float), base_keys.astype(float), label='SuRF-Base', color= base_color)
-    plt.plot(get_request_real.astype(float), keys_real.astype(float), label='SuRF-Real', color= real_color)
+    plt.plot(get_request_base.astype(float)/1000, base_keys.astype(float), label='SuRF-Base', color= base_color)
+    plt.plot(get_request_real.astype(float)/1000, keys_real.astype(float), label='SuRF-Real', color= real_color)
     
     plt.grid()
     plt.ylim([0,100])
-    plt.xlim([0,4000])
-    plt.ylabel('Avg. get requests per extracted key (Millions)', fontsize=12)
-    plt.xlabel('Get Requests (Millions)', fontsize=12)
-    plt.legend()
+    plt.xlim([0,4])
+    plt.ylabel('Avg. Get Requests per Extracted Key (Billions)', fontsize=14)
+    plt.xlabel('Get Requests (Billions)', fontsize=14)
+    plt.legend(fontsize=14)
+    plt.yticks(fontsize=12)  # Adjust the font size as per your preference
+    plt.xticks(fontsize=12)  # Adjust the font size as per your preference
  
 
 

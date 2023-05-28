@@ -43,14 +43,16 @@ def plot_response_time1(data_path):
     db_40m_color = "#313695"
     db_50m_color = "#d73027"
     
-    plt.plot(get_request[0:len_db_10m - 1].astype(float), db_10m[0:len_db_10m - 1].astype(int), label='Data size 10M', color= db_10m_color)
-    plt.plot(get_request[0:len_db_20m - 1].astype(float), db_20m[0:len_db_20m - 1].astype(int), label='Data size 20M', color= db_20m_color)
-    plt.plot(get_request[0:len_db_30m - 1].astype(float), db_30m[0:len_db_30m - 1].astype(int), label='Data size 30M', color= db_30m_color)
-    plt.plot(get_request[0:len_db_40m - 1].astype(float), db_40m[0:len_db_40m - 1].astype(int), label='Data size 40M', color= db_40m_color)
-    plt.plot(get_request[0:len_db_50m - 1].astype(float), db_50m[0:len_db_50m - 1].astype(int), label='Data size 50M', color= db_50m_color)
-    plt.ylabel('# Extracted keys', fontsize=12)
-    plt.legend()
-    plt.xlabel('Get Requests (Millions)', fontsize=12)
+    plt.plot(get_request[0:len_db_10m - 1].astype(float)/1000, db_10m[0:len_db_10m - 1].astype(int), label='Data size 10M', color= db_10m_color)
+    plt.plot(get_request[0:len_db_20m - 1].astype(float)/1000, db_20m[0:len_db_20m - 1].astype(int), label='Data size 20M', color= db_20m_color)
+    plt.plot(get_request[0:len_db_30m - 1].astype(float)/1000, db_30m[0:len_db_30m - 1].astype(int), label='Data size 30M', color= db_30m_color)
+    plt.plot(get_request[0:len_db_40m - 1].astype(float)/1000, db_40m[0:len_db_40m - 1].astype(int), label='Data size 40M', color= db_40m_color)
+    plt.plot(get_request[0:len_db_50m - 1].astype(float)/1000, db_50m[0:len_db_50m - 1].astype(int), label='Data size 50M', color= db_50m_color)
+    plt.ylabel('# Extracted Keys', fontsize=14)
+    plt.legend(loc=2,fontsize=14)
+    plt.xlabel('Get Requests (Billions)', fontsize=14)
+    plt.yticks(fontsize=12)  # Adjust the font size as per your preference
+    plt.xticks(fontsize=12)  # Adjust the font size as per your preference
     
     plt.grid()
 

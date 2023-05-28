@@ -13,7 +13,7 @@ from tikzplotlib import save as tikz_save
 factor = 1000*1000
 bloom18 = True
 bloom10 = False
-also_whole_key_false = True
+also_whole_key_false = false
 
 def chop_array(array):
     for i in range(len(array)):
@@ -94,8 +94,8 @@ def plot_base(data_path1, data_path2, data_path3, data_path4):
     bloom10_whole_true_keys = np.array(bloom10_whole_true_keys, dtype=float)
     bloom10_whole_true_avg = get_request_bloom10_whole_true / bloom10_whole_true_keys     
 
-    bloom18_whole_false_color = "#d73027"
-    bloom18_whole_true_color = "#4575b4"
+    bloom18_whole_false_color = "#4575b4"
+    bloom18_whole_true_color = "#d73027"
     bloom10_whole_false_color = "#2c7fb8"
     bloom10_whole_true_color = "#e7298a"
     
@@ -128,5 +128,5 @@ def plot_base(data_path1, data_path2, data_path3, data_path4):
 
 plt.figure(1)
 plot_base("data_prefix_bloom_filter/attack_62_data1M_q1M_bloom_18bits_prefix5_whole_key_false.csv","data_prefix_bloom_filter/attack_62_data1M_q1M_bloom_18bits_prefix5_whole_key_true.csv", "data_prefix_bloom_filter/prefix_attack_62_data1M_q1M_bloom_10bits_prefix5_whole_key_false.csv", "data_prefix_bloom_filter/prefix_attack_62_data1M_q1M_bloom_10bits_prefix5_whole_key_true.csv")
-plt.savefig('fig/bloom_prefix_average_gets_per_hacked_key.pdf')
+plt.savefig('fig/bloom_prefix_average_gets_per_hacked_key_only_whole_filter_true.pdf')
 plt.show()
