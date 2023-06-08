@@ -32,8 +32,8 @@ def plot_counter_nocounters(data_path):
     len_no_counters = chop_array(no_counters) 
     print ((len_counters))
     print ((len_no_counters))
-    counters_color = "#c51b7d"
-    no_counters_color = "#4d9221"
+    counters_color = "#FFA500"
+    no_counters_color = "#4169E1"
     
     plt.plot(get_request[0:len_counters - 1].astype(float)/1000, counters[0:len_counters - 1].astype(int), label='Idealized', color= counters_color)
     plt.plot(get_request[0:len_no_counters - 1].astype(float)/1000, no_counters[0:len_no_counters - 1].astype(int), label='Actual', color= no_counters_color)
@@ -65,9 +65,8 @@ def plot_counter_nocounters2(data_path):
 
 #    print ((counters))
     print ((no_counters))
-    counters_color = "#2c7fb8"
-    no_counters_color = "#e7298a"
-    
+    counters_color = "#FFA500"
+    no_counters_color = "#4169E1"
     plt.plot(get_request[0:len_counters - 1].astype(int), counters[0:len_counters - 1].astype(float), label='Idealized', color= counters_color)
     plt.plot(get_request[0:len_no_counters - 1].astype(int), no_counters[0:len_no_counters - 1].astype(float), label='Actual', color= no_counters_color)
     plt.ylabel('Avg. Get Requests per Extracted Key (Millions)', fontsize=12)

@@ -23,13 +23,13 @@ def plot_response_time1(data_path):
     fp_keys = data[start_step:end_step,4]
     
     print (steps)
-    fp_precent_color = "#5aae61"
-    fp_keys_color = "#1b7837"
-    keys_color = "#762a83"
-#    seq_color = "#756bb1"
+    fp_precent_color = "#FFA500"
+    fp_keys_color = "#50C878"
+    keys_color = "#4169E1"
+    precent_keys_color = "#FF4500"
     x = steps
 
-    a = plt.plot(x*1000, keys, label='Total #Keys', marker="o", color= keys_color)
+    a = plt.plot(x*1000, keys, label='Total # Keys', marker="o", color= keys_color)
     plt.plot(x*1000, fp_keys, label='# FP Keys', marker="o", color= fp_keys_color)
     plt.ylabel('# Keys', fontsize=22)
     plt.legend(loc=2, fontsize=18)
@@ -41,7 +41,7 @@ def plot_response_time1(data_path):
     plt.xticks(np.arange(25, 350, 50))
     plt2 = plt.twinx()
     plt.yticks(fontsize=20)  # Adjust the font size as per your preference
-    plt2.scatter(x*1000, fp_precent, label='% FP-keys', marker="o", color= fp_precent_color)
+    plt2.scatter(x*1000, fp_precent, label='% FP Keys', marker="o", color= fp_precent_color)
     plt.legend(loc=1, fontsize=18)
 #    plt2.set_ylabel('% Percentage', fontsize=16)
     plt2.set_ylim([0, 119])
@@ -64,16 +64,16 @@ def plot_response_time2(data_path):
     keys_precent = keys/ total_keys * 100
 
     print (steps)
-    fp_precent_color = "#d95f0e"
-    fp_keys_color = "#1b7837"
-    keys_color = "#2c7fb8"
-    precent_keys_color = "#40004b"
+    fp_precent_color = "#FFA500"
+    fp_keys_color = "#50C878"
+    keys_color = "#4169E1"
+    precent_keys_color = "#FF4500"
     x = steps
 
     
     plt.ylabel('% Percentage', fontsize=22)
-    plt.plot(x*1000, keys_precent, label = '% Keys Fall into a Bucket', marker="o", color= precent_keys_color)
-    plt.plot(x*1000, fp_keys, label='% FP Keys Fall into a Bucket', marker="o", color= fp_keys_color)
+    plt.plot(x*1000, keys_precent, label = '% Keys in Bucket', marker="o", color= precent_keys_color)
+    plt.plot(x*1000, fp_keys, label='% FP Keys in Bucket', marker="o", color= fp_keys_color)
     plt.legend(loc=1, fontsize=18)
 
     plt.ylim([0, 119])

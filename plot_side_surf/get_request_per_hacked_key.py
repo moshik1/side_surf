@@ -52,9 +52,9 @@ def plot_counter_nocounters(data_path):
     print(len_D_25_40)
 
 
-    D_17_24_color = "#d73027"
-    D_1_16_color = "#f46d43"
-    D_25_40_color = "#313695"
+    D_17_24_color = "#50C878"
+    D_1_16_color = "#FFA6C9"
+    D_25_40_color = "#4169E1"
     
     plt.plot(get_request[start_D_17_24:start_D_17_24 + len_D_17_24 - 1].astype(float)/1000, D_17_24[start_D_17_24:start_D_17_24 + len_D_17_24 - 1].astype(float), label='Data set 1', color= D_17_24_color)
     plt.plot(get_request[start_D_1_16:start_D_1_16 + len_D_1_16 - 1].astype(float)/1000, D_1_16[start_D_1_16:start_D_1_16 + len_D_1_16 - 1].astype(float), label='Data set 2', color= D_1_16_color)
