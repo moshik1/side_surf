@@ -9,6 +9,12 @@ from tikzplotlib import save as tikz_save
 # colors
 # https://colorbrewer2.org/#type=sequential&scheme=YlGn&n=3
 
+
+import matplotlib
+matplotlib.rcParams['pdf.fonttype'] = 42
+matplotlib.rcParams['ps.fonttype'] = 42
+
+
 def chop_array(array):
     for i in range(len(array)):
         try: 
