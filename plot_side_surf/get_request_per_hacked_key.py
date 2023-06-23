@@ -65,7 +65,7 @@ def plot_counter_nocounters(data_path):
     plt.plot(get_request[start_D_17_24:start_D_17_24 + len_D_17_24 - 1].astype(float)/1000, D_17_24[start_D_17_24:start_D_17_24 + len_D_17_24 - 1].astype(float), label='Data set 1', color= D_17_24_color)
     plt.plot(get_request[start_D_1_16:start_D_1_16 + len_D_1_16 - 1].astype(float)/1000, D_1_16[start_D_1_16:start_D_1_16 + len_D_1_16 - 1].astype(float), label='Data set 2', color= D_1_16_color)
     plt.plot(get_request[start_D_25_40:start_D_25_40 + len_D_25_40 - 1].astype(float)/1000, D_25_40[start_D_25_40:start_D_25_40 + len_D_25_40 - 1].astype(float), label='Data set 3', color= D_25_40_color)
-    plt.ylabel('Avg. Get Requests per Extracted Key (Billions)', fontsize=14)
+    plt.ylabel('Avg. Get Requests per Extracted Key (Millions)', fontsize=14)
     plt.legend(fontsize=14)
     plt.xlabel('Get Requests (Billions)', fontsize=14)
     plt.yticks(fontsize=12)  # Adjust the font size as per your preference

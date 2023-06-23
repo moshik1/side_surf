@@ -124,7 +124,7 @@ def plot_base(data_path1, data_path2, data_path3, data_path4):
     else: 
         plt.ylim([0,500])
         plt.xlim([0,7.5])
-    plt.ylabel('Avg. Get Requests per Extracted Key (Billions)', fontsize=14)
+    plt.ylabel('Avg. Get Requests per Extracted Key (Millions)', fontsize=14)
     plt.xlabel('Get Requests (Billions)', fontsize=14)
     if (also_whole_key_false is True):
         plt.legend(fontsize=14)

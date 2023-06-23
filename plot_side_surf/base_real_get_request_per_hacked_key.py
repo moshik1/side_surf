@@ -79,7 +79,7 @@ def plot_base(data_path1, data_path2):
     plt.grid()
     plt.ylim([0,100])
     plt.xlim([0,4])
-    plt.ylabel('Avg. Get Requests per Extracted Key (Billions)', fontsize=14)
+    plt.ylabel('Avg. Get Requests per Extracted Key (Millions)', fontsize=14)
     plt.xlabel('Get Requests (Billions)', fontsize=14)
     plt.legend(fontsize=14)
     plt.yticks(fontsize=12)  # Adjust the font size as per your preference

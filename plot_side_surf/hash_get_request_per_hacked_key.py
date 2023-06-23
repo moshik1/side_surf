@@ -68,7 +68,7 @@ def plot_hash(data_path1, data_path2):
     
     plt.grid()
     plt.ylim([0,120])
-    plt.ylabel('Avg. Get Requests per Extracted Key (Billions)', fontsize=12)
+    plt.ylabel('Avg. Get Requests per Extracted Key (Millions)', fontsize=12)
     plt.xlabel('Get Request (Billions)', fontsize=14)
     plt.legend(loc=1, fontsize=14)
     plt.yticks(fontsize=12)  # Adjust the font size as per your preference
