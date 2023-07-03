@@ -68,6 +68,7 @@ def plot_response_time2(data_path):
     keys = data[start_step:end_step,2] 
     fp_keys = data[start_step:end_step,4]
     keys_precent = keys/ total_keys * 100
+    fp_precent = data[start_step:end_step,3]
 
     print (steps)
     fp_precent_color = "#FFA500"
@@ -79,7 +80,8 @@ def plot_response_time2(data_path):
     
     plt.ylabel('% Percentage', fontsize=22)
     plt.plot(x*1000, keys_precent, label = '% Keys in Bucket', marker="o", color= precent_keys_color)
-    plt.plot(x*1000, fp_keys, label='% FP Keys in Bucket', marker="o", color= fp_keys_color)
+#    plt.plot(x*1000, fp_precent, label='% FP Keys in Bucket', marker="o", color= fp_precent_color)
+    plt.plot(x*1000,fp_keys, label='# FP Keys in Bucket', marker="o", color= fp_keys_color)
     plt.legend(loc=1, fontsize=18)
 
     plt.ylim([0, 119])
